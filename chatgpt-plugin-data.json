@@ -2,51 +2,91 @@
     "data": [
         {
             "id": "1",
-            "name": "Jane Cooper2",
-            "title": "ChatGPT to evernote",
-            "remark": "Paradigm Representative",
+            "name": "Expedia",
+            "title": "Expedia",
+            "remark": "Bring your trip plans to life—get there, stay there, find things to see and do.",
             "url": "https://ai.com",
-            "imageUrl": "https://raw.githubusercontent.com/zhq426/ChatGPT2Notion/main/logo.jpg"
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/expedia.svg"
         },
         {
             "id": "2",
-            "name": "Jane Cooper2",
-            "title": "ChatGPT to evernote",
-            "remark": "Paradigm Representative",
+            "name": "FiscalNote",
+            "title": "FiscalNote",
+            "remark": "Provides and enables access to select market-leading, real-time data sets for legal, political, and regulatory data and information.",
             "url": "https://ai.com",
-            "imageUrl": "https://raw.githubusercontent.com/zhq426/ChatGPT2Notion/main/logo.jpg"
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/fiscal-note.jpg"
         },
         {
             "id": "3",
-            "name": "Jane Cooper2",
-            "title": "ChatGPT to evernote",
-            "remark": "Paradigm Representative",
+            "name": "Instacart",
+            "title": "Order from your favorite local grocery stores.",
+            "remark": "Order from your favorite local grocery stores.",
             "url": "https://ai.com",
-            "imageUrl": "https://raw.githubusercontent.com/zhq426/ChatGPT2Notion/main/logo.jpg"
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/instacart.jpg"
         },
         {
             "id": "4",
-            "name": "Jane Cooper2",
-            "title": "ChatGPT to evernote",
-            "remark": "Paradigm Representative",
+            "name": "KAYAK",
+            "title": "KAYAK",
+            "remark": "Search for flights, stays and rental cars. Get recommendations for all the places you can go within your budget.",
             "url": "https://ai.com",
-            "imageUrl": "https://raw.githubusercontent.com/zhq426/ChatGPT2Notion/main/logo.jpg"
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/kayak.jpg"
         },
         {
             "id": "5",
-            "name": "Jane Cooper2",
-            "title": "ChatGPT to evernote",
-            "remark": "Paradigm Representative",
+            "name": "Klarna Shopping",
+            "title": "Klarna Shopping",
+            "remark": "Search and compare prices from thousands of online shops.",
             "url": "https://ai.com",
-            "imageUrl": "https://raw.githubusercontent.com/zhq426/ChatGPT2Notion/main/logo.jpg"
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/klarna.jpg"
         },
         {
             "id": "6",
-            "name": "Jane Cooper2",
-            "title": "ChatGPT to evernote",
-            "remark": "Paradigm Representative",
+            "name": "Milo Family AI",
+            "title": "Milo Family AI",
+            "remark": "Giving parents superpowers to turn the manic to magic, 20 minutes each day. Ask: Hey Milo, what’s magic today?",
             "url": "https://ai.com",
-            "imageUrl": "https://raw.githubusercontent.com/zhq426/ChatGPT2Notion/main/logo.jpg"
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/milo-family-ai.jpg"
+        },
+        {
+            "id": "7",
+            "name": "OpenTable",
+            "title": "OpenTable",
+            "remark": "Provides restaurant recommendations, with a direct link to book.",
+            "url": "https://ai.com",
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/open-table.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Shop",
+            "title": "Shop",
+            "remark": "Search for millions of products from the world’s greatest brands.",
+            "url": "https://ai.com",
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/shop.jpg"
+        },
+        {
+            "id": "9",
+            "name": "Speak",
+            "title": "Speak",
+            "remark": "Learn how to say anything in another language with Speak, your AI-powered language tutor.",
+            "url": "https://ai.com",
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/speak.jpg"
+        },
+        {
+            "id": "10",
+            "name": "Wolfram",
+            "title": "Wolfram",
+            "remark": "Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.",
+            "url": "https://ai.com",
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/wolfram-alpha.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Zapier",
+            "title": "Zapier",
+            "remark": "Interact with over 5,000+ apps like Google Sheets, Trello, Gmail, HubSpot, Salesforce, and more.",
+            "url": "https://ai.com",
+            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/zapier.jpg"
         }
     ]
 }
