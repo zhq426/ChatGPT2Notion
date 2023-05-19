@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "Jane Cooper1",
-            "title": "Paradigm Representative",
+            "title": "ChatGPT to Notion",
             "remark": "Paradigm Representative",
             "role": "Admin",
             "email": "janecooper@example.com",
@@ -13,7 +13,7 @@
         {
             "id": "2",
             "name": "Jane Cooper2",
-            "title": "Paradigm Representative",
+            "title": "ChatGPT to evernote",
             "remark": "Paradigm Representative",
             "role": "Admin",
             "email": "janecooper@example.com",
