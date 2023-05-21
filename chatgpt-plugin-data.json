@@ -1,92 +1,1004 @@
 {
-    "data": [
-        {
-            "id": "1",
-            "name": "Expedia",
-            "title": "Expedia",
-            "remark": "Bring your trip plans to life—get there, stay there, find things to see and do.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/expedia.svg"
-        },
-        {
-            "id": "2",
-            "name": "FiscalNote",
-            "title": "FiscalNote",
-            "remark": "Provides and enables access to select market-leading, real-time data sets for legal, political, and regulatory data and information.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/fiscal-note.jpg"
-        },
-        {
-            "id": "3",
-            "name": "Instacart",
-            "title": "Order from your favorite local grocery stores.",
-            "remark": "Order from your favorite local grocery stores.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/instacart.jpg"
-        },
-        {
-            "id": "4",
-            "name": "KAYAK",
-            "title": "KAYAK",
-            "remark": "Search for flights, stays and rental cars. Get recommendations for all the places you can go within your budget.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/kayak.jpg"
-        },
-        {
-            "id": "5",
-            "name": "Klarna Shopping",
-            "title": "Klarna Shopping",
-            "remark": "Search and compare prices from thousands of online shops.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/klarna.jpg"
-        },
-        {
-            "id": "6",
-            "name": "Milo Family AI",
-            "title": "Milo Family AI",
-            "remark": "Giving parents superpowers to turn the manic to magic, 20 minutes each day. Ask: Hey Milo, what’s magic today?",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/milo-family-ai.jpg"
-        },
-        {
-            "id": "7",
-            "name": "OpenTable",
-            "title": "OpenTable",
-            "remark": "Provides restaurant recommendations, with a direct link to book.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/open-table.jpg"
-        },
-        {
-            "id": "8",
-            "name": "Shop",
-            "title": "Shop",
-            "remark": "Search for millions of products from the world’s greatest brands.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/shop.jpg"
-        },
-        {
-            "id": "9",
-            "name": "Speak",
-            "title": "Speak",
-            "remark": "Learn how to say anything in another language with Speak, your AI-powered language tutor.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/speak.jpg"
-        },
-        {
-            "id": "10",
-            "name": "Wolfram",
-            "title": "Wolfram",
-            "remark": "Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/wolfram-alpha.jpg"
-        },
-        {
-            "id": "11",
-            "name": "Zapier",
-            "title": "Zapier",
-            "remark": "Interact with over 5,000+ apps like Google Sheets, Trello, Gmail, HubSpot, Salesforce, and more.",
-            "url": "https://ai.com",
-            "imageUrl": "https://cdn.openai.com/chat-plugins/plugin-icons/zapier.jpg"
-        }
-    ]
+  "data": [
+    {
+      "id": "plugin-c26a258b-3781-4b83-bee7-6501f4b110c6",
+      "name": "Klook",
+      "title": "Klook",
+      "remark": "From local escapes to far flung adventures, find the best experiences, tours, hotels and transport options anywhere.",
+      "url": "https://www.klook.com/v1/gptpluginsrv/public/openapi.json",
+      "imageUrl": "https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_400,h_400/v1658221026/blog/mza5gbjifutssk81hc78.webp"
+    },
+    {
+      "id": "plugin-641ab17f-5cff-4696-94aa-1d2b000a473e",
+      "name": "Boolio",
+      "title": "Boolio",
+      "remark": "The easiest way to analyze global stock values with the power of quantitative factor methodologies.",
+      "url": "https://chatgpt.boolio.co.kr/openapi.yaml",
+      "imageUrl": "https://chatgpt.boolio.co.kr/logo.png"
+    },
+    {
+      "id": "plugin-13207d0c-4dda-4ac1-a6ac-03f4b5bbbb0c",
+      "name": "QuickRecall",
+      "title": "QuickRecall",
+      "remark": "Create flashcards and review them with spaced repeition.",
+      "url": "https://quickrecall.cards/openapi.json",
+      "imageUrl": "https://quickrecall.cards/logo.png"
+    },
+    {
+      "id": "plugin-e5009c08-c6c8-4195-977f-16f39a7d3b7b",
+      "name": "ChatWithVideo",
+      "title": "ChatWithVideo",
+      "remark": "Ask questions, analyzing, and parsing through YouTube videos by simply providing a YouTube video URL.",
+      "url": "https://chatwithvideo.sdan.io/openapi.yaml",
+      "imageUrl": "https://chatwithvideo.sdan.io/logo.png"
+    },
+    {
+      "id": "plugin-730917c2-14a2-4c86-a0ce-5c9055326a68",
+      "name": "Planfit",
+      "title": "Planfit",
+      "remark": "Get your tailored workout plan and instructions with videos - AI-powered Workout Coach, Planfit.",
+      "url": "https://chatgptplugin.planfit.ai/openapi.yaml",
+      "imageUrl": "https://chatgptplugin.planfit.ai/logo.png"
+    },
+    {
+      "id": "plugin-f2ff4483-708c-4721-9b0b-6964bed610ab",
+      "name": "Ai Tool Hunt",
+      "title": "Ai Tool Hunt",
+      "remark": "Explore the ideal AI solutions for all use cases, drawn from the most comprehensive global database of AI tools.",
+      "url": "https://www.aitoolhunt.com/openapi.json",
+      "imageUrl": "https://www.aitoolhunt.com/images/aitoolhunt_logo.png"
+    },
+    {
+      "id": "plugin-57113aa3-6e7a-4e54-a64d-52ccef55853c",
+      "name": "Website Performance",
+      "title": "Website Performance",
+      "remark": "Measure key metrics about your website - performance, accessibility, best practices, SEO, PWA.",
+      "url": "https://website-performance-plugin.eidam.dev/openapi.json",
+      "imageUrl": "https://tabler-icons.io/static/tabler-icons/icons/brand-speedtest.svg"
+    },
+    {
+      "id": "plugin-57e9abba-09ab-4d25-99f6-34db48217965",
+      "name": "FundsDB",
+      "title": "FundsDB",
+      "remark": "Discover funding opportunities in UK and India on FundsDB. Type in your query in any language or /help for assistance.",
+      "url": "https://fundsdbsearch.azurewebsites.net/openapi.yaml",
+      "imageUrl": "https://fundsdbsearch.azurewebsites.net/logo.png"
+    },
+    {
+      "id": "plugin-aa8a399d-a369-432e-81b7-ee6e889c1b8f",
+      "name": "Currency Converter",
+      "title": "Currency Converter",
+      "remark": "Convert currencies based on real-time rates.",
+      "url": "https://currency-conversion--nerrosa.repl.co/.well-known/openapi.yaml",
+      "imageUrl": "https://orrenprunckun.com/ai-plugins/ccc-icon.png"
+    },
+    {
+      "id": "plugin-0fe485cd-d658-481b-89fc-c4fa32f1ec9f",
+      "name": "Abridged Due Diligence",
+      "title": "Abridged Due Diligence",
+      "remark": "Discover the details! Search through recent SEC filings, with links to deeper analysis.",
+      "url": "https://vector-api.fly.dev/.well-known/openapi.yaml",
+      "imageUrl": "https://vector-api.fly.dev/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-a594a34b-81e8-4a78-a08f-2bc08fce4c26",
+      "name": "ChatSpot",
+      "title": "ChatSpot",
+      "remark": "Get access to marketing/sales data including domain information, company research and search keyword research.",
+      "url": "https://chatspot.ai/plugin/api.yaml",
+      "imageUrl": "https://chatspot.ai/plugin/logo.png"
+    },
+    {
+      "id": "plugin-c2b7e511-9056-4bef-aab7-f48c019514b8",
+      "name": "UK Latest News",
+      "title": "UK Latest News",
+      "remark": "Get the latest news stories from the UK's top news outlets including BBC News, Sky News, The Independent, and others.",
+      "url": "https://gptnews.uk/.well-known/openapi.yaml",
+      "imageUrl": "https://gptnews.uk/logo.svg"
+    },
+    {
+      "id": "plugin-42224a4e-2339-499b-b602-f9f3aafed6de",
+      "name": "Xpapers",
+      "title": "Xpapers",
+      "remark": "Effortlessly find real academic papers on arXiv. Dive into abstracts, references, and access public PDF URLs.",
+      "url": "https://xapi.lihaorui.com/openapi.yaml",
+      "imageUrl": "https://xsearchlogo.oss-us-west-1.aliyuncs.com/logo.png?x-oss-process=image/resize,w_200,l_200"
+    },
+    {
+      "id": "plugin-1fcd45c0-8b30-4862-ba37-9d543f338b9c",
+      "name": "QuakePH",
+      "title": "QuakePH",
+      "remark": "Stay updated with the latest earthquakes in the Philippines.",
+      "url": "https://quakeph-plugin.chatbot.so/openai.yaml",
+      "imageUrl": "https://quakeph-plugin.chatbot.so/assets/Quake PH Logo.png"
+    },
+    {
+      "id": "plugin-019fbb62-bb12-488a-8196-2882f8888fb7",
+      "name": "RoboAd",
+      "title": "RoboAd",
+      "remark": "Your AI powered Ad Assistant!",
+      "url": "https://roboad.herokuapp.com/openapi.yaml",
+      "imageUrl": "https://roboad.herokuapp.com/static/roboad_logo.png"
+    },
+    {
+      "id": "plugin-cbf77967-552b-45ac-a5d3-b80722ac0a73",
+      "name": "BuyWisely",
+      "title": "BuyWisely",
+      "remark": "Compare Prices & Discover the Latest Offers from thousands of online shops in Australia.",
+      "url": "https://buywisely.com.au/.well-known/openapi.yaml",
+      "imageUrl": "https://buywisely.com.au/assets/logo.png"
+    },
+    {
+      "id": "plugin-91353e46-a494-40e7-806a-6c15347bc281",
+      "name": "ImageSearch",
+      "title": "ImageSearch",
+      "remark": "Find and display image from unsplash.",
+      "url": "https://imagesearch.jjzhang.repl.co/.well-known/openapi.yaml",
+      "imageUrl": "https://imagesearch.jjzhang.repl.co/logo.png"
+    },
+    {
+      "id": "plugin-659d0b67-ea16-4c9b-86de-7d0652eac6ff",
+      "name": "Statis Fund Finance",
+      "title": "Statis Fund Finance",
+      "remark": "Financial data tool for analyzing equities. You can get price quotes, analyze moving averages, RSI, and more.",
+      "url": "https://statisfinapp.herokuapp.com/openapi.yaml",
+      "imageUrl": "https://statisfinapp.herokuapp.com/logo.png"
+    },
+    {
+      "id": "plugin-37f75e2e-3de8-45c7-9b9d-564e4c193d8b",
+      "name": "Penrose Analyst",
+      "title": "Penrose Analyst",
+      "remark": "Search global news and research papers. Summarize Arxiv.org links. Ask me for the latest news!",
+      "url": "https://www.aperiodic.io/openapi.yaml",
+      "imageUrl": "https://www.aperiodic.io/logo.png"
+    },
+    {
+      "id": "plugin-4bbaa33f-4dc8-4f00-9fe5-7b5a2c880ec8",
+      "name": "Podcast search",
+      "title": "Podcast search",
+      "remark": "This tool explores podcasts from PodcastIndex.org, a platform for decentralized audio content discovery.",
+      "url": "https://esne.ai/openapi.yaml",
+      "imageUrl": "https://esne.ai/logo.png"
+    },
+    {
+      "id": "plugin-5faab902-6d63-4176-9e1b-9f47352d5c87",
+      "name": "ABC Music Notation",
+      "title": "ABC Music Notation",
+      "remark": "Plugin for converting ABC music notation to wav, midi and postscript files.",
+      "url": "https://abcaudio.vynalezce.com/openapi.json",
+      "imageUrl": "https://abcaudio.vynalezce.com/static/logo.png"
+    },
+    {
+      "id": "plugin-a0aea1ca-744f-43d9-90eb-a53e2502249a",
+      "name": "Creatuity Stores",
+      "title": "Creatuity Stores",
+      "remark": "We integrate stores so you can search for products in all of them at the same time.",
+      "url": "https://chatgpt.wild.creatuity.net/.well-known/openapi.yaml",
+      "imageUrl": "https://chatgpt.wild.creatuity.net/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-2cf18460-5435-459e-87a7-c19951b74c1c",
+      "name": "I Am Rich",
+      "title": "I Am Rich",
+      "remark": "Proudly declare 'I am rich'.",
+      "url": "https://iamrich--eviltwinv.repl.co/openapi.yaml",
+      "imageUrl": "https://iamrich--eviltwinv.repl.co/iamrich.jpg"
+    },
+    {
+      "id": "plugin-110f5f4e-0b9d-41b8-ac66-968546e1cce5",
+      "name": "There's An AI For That",
+      "title": "There's An AI For That",
+      "remark": "Find the right AI tools for any use case, from the world's largest database of AI tools.",
+      "url": "https://theresanaiforthat.com/openapi.json",
+      "imageUrl": "https://media.theresanaiforthat.com/favicon-dark-large.png"
+    },
+    {
+      "id": "plugin-359474d0-55dd-4157-9ed9-5d477780695e",
+      "name": "Tic Tac Toe",
+      "title": "Tic Tac Toe",
+      "remark": "Playing a game of Tic Tac Toe with varying board sizes. You can submit your move and get the AI's response move.",
+      "url": "https://api.ludum.dev/openapi.yaml",
+      "imageUrl": "https://api.ludum.dev/logo.png"
+    },
+    {
+      "id": "plugin-4c6e98c7-7913-4935-a720-1fe90c4a907b",
+      "name": "PortfoliosLab",
+      "title": "PortfoliosLab",
+      "remark": "Stocks, ETFs, funds, crypto analysis: historical performance, volatility, risk metrics, Sharpe ratio, drawdowns, etc.",
+      "url": "https://portfolioslab.com/openapi.yaml",
+      "imageUrl": "https://portfolioslab.com/logo.png"
+    },
+    {
+      "id": "plugin-3febe916-2380-4347-bfa9-38c5aaf7cfeb",
+      "name": "DAIZY",
+      "title": "DAIZY",
+      "remark": "Deep insights on ETFs, stocks, cryptos. Institutional-grade data: performance, risk, sustainability, research.",
+      "url": "https://plugin.daizy.com/.well-known/openapi.yaml",
+      "imageUrl": "https://uploads-ssl.webflow.com/62ea3bc0bbc782948e62e0bb/639313e510990d725bfec083_webclip.png"
+    },
+    {
+      "id": "plugin-1941bddd-ffc8-437a-a36e-a4b525c12a3f",
+      "name": "Creature Generator",
+      "title": "Creature Generator",
+      "remark": "Creates a random creature and an image it for use in role playing games.",
+      "url": "https://creaturegen.vercel.app/openapi.yaml",
+      "imageUrl": "https://creaturegen.vercel.app/logo.png"
+    },
+    {
+      "id": "plugin-e1d92236-a6f5-4ca0-bd64-3f86e2634dd9",
+      "name": "Career Copilot",
+      "title": "Career Copilot",
+      "remark": "A trusted, always on assistant to help software developers find a better job. Built by Commit.dev.",
+      "url": "https://app.wolfie.ai/openapi.yaml",
+      "imageUrl": "https://app.wolfie.ai/images/chatgpt-logo.png"
+    },
+    {
+      "id": "plugin-b3b22151-86ec-4654-85f3-c052d8d47e1a",
+      "name": "World News",
+      "title": "World News",
+      "remark": "Summarize news headlines. You can ask for the latest news from various sources around the world.",
+      "url": "https://simbiss.net/openapi.yaml",
+      "imageUrl": "https://simbiss.net/logo.png"
+    },
+    {
+      "id": "plugin-98d9ce1b-86bb-4294-a66a-c97ace32e979",
+      "name": "CoinCap",
+      "title": "CoinCap",
+      "remark": "Get cryptocurrency information from CoinCap.",
+      "url": "https://coincap.gptplug.chat/openapi.yml",
+      "imageUrl": "https://seeklogo.com/images/C/coincap-logo-B1854DA521-seeklogo.com.png"
+    },
+    {
+      "id": "plugin-d3ec7db1-89fb-45d6-a8e8-e6b9f2d6ce64",
+      "name": "Zumper Rental Search",
+      "title": "Zumper Rental Search",
+      "remark": "Find a rental home in the US and Canada.",
+      "url": "https://www.zumper.com/api/x/1/openai/config",
+      "imageUrl": "https://www.zumper.com/img/favicon.png"
+    },
+    {
+      "id": "plugin-79880424-61e5-4046-85ae-b212f89e22da",
+      "name": "Scraper",
+      "title": "Scraper",
+      "remark": "Scrape content from webpages by providing a URL.",
+      "url": "https://api.gafo.tech/openapi.yaml",
+      "imageUrl": "https://api.gafo.tech/logo.png"
+    },
+    {
+      "id": "plugin-8701f253-5910-4d4c-8057-8265b1ec587e",
+      "name": "Options Pro",
+      "title": "Options Pro",
+      "remark": "Options Pro is your personal options trading assistant to help you navigate market conditions.",
+      "url": "https://optionspro.io/openai/v0/api-docs/openAPI.yaml",
+      "imageUrl": "https://optionspro.io/assets/Icon/icon.png"
+    },
+    {
+      "id": "plugin-5d4d9681-6562-4e39-931f-bb296cabf66a",
+      "name": "GameBase",
+      "title": "GameBase",
+      "remark": "Chat and get game info, database is based on the latest gaming information in 2023, supports multiple platforms.",
+      "url": "https://api.gamebase.chat/v3/api-docs",
+      "imageUrl": "https://raw.githubusercontent.com/zichanghu/Nap/main/game-center-chatgptplugin-colorful.png"
+    },
+    {
+      "id": "plugin-e5159e19-a6dd-4536-9cad-6a23b82e426e",
+      "name": "VoxScript",
+      "title": "VoxScript",
+      "remark": "Enables searching of YouTube transcripts, financial data sources, and Google Search results, and more!",
+      "url": "https://voxscript.awt.icu/swagger/v1/swagger.yaml",
+      "imageUrl": "https://voxscript.awt.icu/images/VoxScript_logo_32x32.png"
+    },
+    {
+      "id": "plugin-1a5e2684-04c5-4aef-85ab-ee7cbdc7d40d",
+      "name": "Wahi",
+      "title": "Wahi",
+      "remark": "Hey Ontario, ask and get so in the know on the latest listings, property insights and more.",
+      "url": "https://wahi.com/gpt/openapi.yaml",
+      "imageUrl": "https://wahi.com/wp-content/uploads/2022/10/wahi-logo.svg"
+    },
+    {
+      "id": "plugin-5735312c-0a9e-49ad-89d6-04e721a218de",
+      "name": "Giga Tutor",
+      "title": "Giga Tutor",
+      "remark": "Giga is your AI powered personalised tutor, it keeps the answers to your questions personalised.",
+      "url": "https://giga-do.azurewebsites.net/openapi.yaml",
+      "imageUrl": "https://giga-do.azurewebsites.net/logo.png"
+    },
+    {
+      "id": "plugin-61031a99-61f7-4770-a3a8-16bab80696f9",
+      "name": "OwlJourney",
+      "title": "OwlJourney",
+      "remark": "Provides lodging and activity suggestions, ensuring an engaging and user-friendly journey.",
+      "url": "https://aiplugin-owljourney.owlting.com/openapi.yaml",
+      "imageUrl": "https://aiplugin-owljourney.owlting.com/logo.svg"
+    },
+    {
+      "id": "plugin-3a2d1245-c43b-46c1-868c-e42480c9372d",
+      "name": "CreditYelp",
+      "title": "CreditYelp",
+      "remark": "Access various essential financial calculators for a detailed repayment schedule and payoff term.",
+      "url": "https://www.credityelp.com/openai/services.json",
+      "imageUrl": "https://credityelp.com/openai/logo.png"
+    },
+    {
+      "id": "plugin-65f116c2-7fbe-49bb-b4c5-ea374d5424f8",
+      "name": "Tomorrow.io Weather",
+      "title": "Tomorrow.io Weather",
+      "remark": "Predicting, planning, and adapting to the weather forecast via contextualized chat-based insights.",
+      "url": "https://api.tomorrow.io/v4/chat/openapi",
+      "imageUrl": "https://assets.hypercast2.climacell.co/logo.png"
+    },
+    {
+      "id": "plugin-e14f3ac5-9bbd-48a8-a55b-ab5e813d7f8a",
+      "name": "Comic Finder",
+      "title": "Comic Finder",
+      "remark": "A plugin that finds a relevant comic given a description. Currently supports XKCD and SMBC comics.",
+      "url": "https://comicfinder.fly.dev/openapi.yaml",
+      "imageUrl": "https://comicfinder.fly.dev/logo.png"
+    },
+    {
+      "id": "plugin-44655cb9-a74a-4ae3-88a3-adec2c3fd282",
+      "name": "AskYourPDF",
+      "title": "AskYourPDF",
+      "remark": "Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.",
+      "url": "https://plugin.askyourpdf.com/.well-known/openapi.yaml",
+      "imageUrl": "https://plugin.askyourpdf.com/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-c10772b6-969d-46a5-a982-905d5b424deb",
+      "name": "Weather Report",
+      "title": "Weather Report",
+      "remark": "Current weather data for cities and airports using METAR aviation feeds.",
+      "url": "https://metar.pluginai.ai/openapi.yaml",
+      "imageUrl": "https://metar.pluginai.ai/logo.png"
+    },
+    {
+      "id": "plugin-365a3151-f1a8-474b-bf51-20206f73043a",
+      "name": "Access Link",
+      "title": "Access Link",
+      "remark": "Access any links on the web and get the information you need.",
+      "url": "https://www.accesslinks.ai/.well-known/openapi.yaml",
+      "imageUrl": "https://www.accesslinks.ai/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-9d743f8f-b4d8-4b7f-83c2-3ac2a4598085",
+      "name": "PlaylistAI",
+      "title": "PlaylistAI",
+      "remark": "Create Spotify playlists for any prompt.",
+      "url": "https://playlistai-plugin.vercel.app/openapi.json",
+      "imageUrl": "https://playlistai-plugin.vercel.app/icon.png"
+    },
+    {
+      "id": "plugin-179013de-6465-4e36-8bbd-49e36767e91c",
+      "name": "Noteable",
+      "title": "Noteable",
+      "remark": "Create notebooks in Python, SQL, and Markdown to explore data, visualize, and share notebooks with everyone.",
+      "url": "https://chat.noteable.io/api/origami/openapi.json",
+      "imageUrl": "https://chat.noteable.io/origami/static/images/noteable-logo.png"
+    },
+    {
+      "id": "plugin-3ba3113d-a2e7-4d6e-8bef-ca491e694cf7",
+      "name": "Bramework",
+      "title": "Bramework",
+      "remark": "Find keywords, generate content briefs, perform SEO analysis, and extract SEO information.",
+      "url": "https://plugin.bramework.com/openapi.yaml",
+      "imageUrl": "https://plugin.bramework.com/logo.png"
+    },
+    {
+      "id": "plugin-22e85983-0a06-428e-b981-ebf3a166f68a",
+      "name": "MixerBox News",
+      "title": "MixerBox News",
+      "remark": "Get latest news delivered right to you! Stay informed with bulletins across multiple categories from credible sources.",
+      "url": "https://www.mixerboxnews.com/openapi.json",
+      "imageUrl": "https://s3.amazonaws.com/static.mixerbox.com/mixerbox/images/icons/230503__News+Plugin.png"
+    },
+    {
+      "id": "plugin-6f4c8762-129f-46de-9ef8-20c044c8e509",
+      "name": "Vivian Health",
+      "title": "Vivian Health",
+      "remark": "Take the first step to finding your next healthcare job.",
+      "url": "https://plugin.ai.vivian.com/.well-known/openapi.yaml",
+      "imageUrl": "https://plugin.ai.vivian.com/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-730b5439-57ca-4210-8598-cd303ec631bd",
+      "name": "SEO.app",
+      "title": "SEO.app",
+      "remark": "Your personal SEO assistant for content marketing.",
+      "url": "https://smyth.seo.app/openapi.json",
+      "imageUrl": "https://smyth.seo.app/static/seo-app-icon.png"
+    },
+    {
+      "id": "plugin-59581c9a-f8c9-418a-9a11-619053a29ebe",
+      "name": "Yabble",
+      "title": "Yabble",
+      "remark": "Create insights instantly.  Any audience. Any question.  Yabble it.",
+      "url": "https://yabblezone.net/.well-known/openapi.yaml",
+      "imageUrl": "https://yabblezone.net/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-f4c74dea-7bee-4f77-9717-34668bbd05b9",
+      "name": "Polygon",
+      "title": "Polygon",
+      "remark": "Market data, news, and fundamentals for stocks, options, forex, and crypto from Polygon.io.",
+      "url": "https://polygon.io/chatgpt/openapi.json",
+      "imageUrl": "https://polygon.io/imgs/favicon.png"
+    },
+    {
+      "id": "plugin-0efc33e6-78ca-4d8c-a1a4-97d05e2bb4c1",
+      "name": "Photorealistic",
+      "title": "Photorealistic",
+      "remark": "Generate Photorealistic prompts for Midjourney.",
+      "url": "https://midjourney-ruddy.vercel.app/.well-known/openapi.yaml",
+      "imageUrl": "https://midjourney-ruddy.vercel.app/imgs/logo96.png"
+    },
+    {
+      "id": "plugin-cf05cc93-767c-4f79-9ea2-31647b37de37",
+      "name": "Clinical Trial Radar",
+      "title": "Clinical Trial Radar",
+      "remark": "Discover current info on global clinical trials, organizations, diseases, and biomarkers from public & private studies.",
+      "url": "https://trialradar.marketflare.repl.co/.well-known/openapi.yaml",
+      "imageUrl": "https://www.marketflare.com/wp-content/uploads/2015/12/mf_icon.png"
+    },
+    {
+      "id": "plugin-5ce50344-30ff-4d83-9dd3-f8265abc2f0f",
+      "name": "Show Me",
+      "title": "Show Me",
+      "remark": "Create and edit diagrams directly in chat.",
+      "url": "https://showme.redstarplugin.com/openapi.json",
+      "imageUrl": "https://showme.redstarplugin.com/logo.svg"
+    },
+    {
+      "id": "plugin-abe2f764-eff3-4138-aefd-533b7b374aec",
+      "name": "Turo",
+      "title": "Turo",
+      "remark": "Search for the perfect Turo vehicle for your next trip.",
+      "url": "https://chatgpt.turo.com/openapi.yaml",
+      "imageUrl": "https://resources.turo.com/next-js/0.0.1/app_icon.png"
+    },
+    {
+      "id": "plugin-f61f79b9-c95b-4c2e-9533-f6a783f974cc",
+      "name": "Open Lecture",
+      "title": "Open Lecture",
+      "remark": "Discover and access the right moments in open course lectures for targeted learning.",
+      "url": "https://lorelattice.com/.well-known/openapi.yaml",
+      "imageUrl": "https://lorelattice.com/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-e3ccf645-9cc3-4692-a267-39adc13e9195",
+      "name": "Prompt Perfect",
+      "title": "Prompt Perfect",
+      "remark": "Type 'perfect' to craft the perfect prompt, every time.",
+      "url": "https://xyz-prompt-perfect.uc.r.appspot.com/openapi.yaml",
+      "imageUrl": "https://xyz-prompt-perfect.uc.r.appspot.com/static/prompt_perfect_logo.png"
+    },
+    {
+      "id": "plugin-daf2867b-c59d-41a7-8c5d-5be52f68e415",
+      "name": "edX",
+      "title": "edX",
+      "remark": "Find courses and content from leading universities to expand your knowledge at any level.",
+      "url": "https://chatgpt-plugin.2u.com/.well-known/openapi.yaml",
+      "imageUrl": "https://www.edx.org/images/logos/edx_logo_chatgpt_plugin.svg"
+    },
+    {
+      "id": "plugin-ecbedfbb-464a-4abc-8b03-ef3926d6594d",
+      "name": "Change",
+      "title": "Change",
+      "remark": "Discover impactful nonprofits to support in your community and beyond.",
+      "url": "https://api.getchange.io/.well-known/openapi.yaml",
+      "imageUrl": "https://api.getchange.io/.well-known/change-logo.png"
+    },
+    {
+      "id": "plugin-02c921df-6dfe-481a-ad38-15879bdaae09",
+      "name": "Metaphor",
+      "title": "Metaphor",
+      "remark": "Access the internet's highest quality content. Recommended by people, powered by neural search.",
+      "url": "https://api.metaphor.systems/openapi.yaml",
+      "imageUrl": "https://api.metaphor.systems/logo.png"
+    },
+    {
+      "id": "plugin-079858b5-434f-42c2-b38e-9c2c7aefc06c",
+      "name": "Local by GoodCall",
+      "title": "Local by GoodCall",
+      "remark": "Discover and support restaurants, shops & services near you. \ud83c\udf7d\ufe0f \ud83d\udecd\ufe0f \ud83d\udd27",
+      "url": "https://local.goodcall.ai/openapi.yaml",
+      "imageUrl": "https://local.goodcall.ai/logo.png"
+    },
+    {
+      "id": "plugin-f70bbbbd-e9ec-4fca-b03e-d0e20d337820",
+      "name": "Cloudflare Radar",
+      "title": "Cloudflare Radar",
+      "remark": "Get real-time insights into Internet traffic patterns and threats as seen by Cloudflare.",
+      "url": "https://api.radar.cloudflare.com/.well-known/openai-schema.json",
+      "imageUrl": "https://api.radar.cloudflare.com/.well-known/logo.svg"
+    },
+    {
+      "id": "plugin-9842d5f5-844b-45e3-8d5c-551f1c2539ee",
+      "name": "WebPilot",
+      "title": "WebPilot",
+      "remark": "Browse & QA Webpage/PDF/Data. Generate articles, from one or more URLs.",
+      "url": "https://webreader.webpilotai.com/openapi.yaml",
+      "imageUrl": "https://webreader.webpilotai.com/logo.png"
+    },
+    {
+      "id": "plugin-7171c109-7b09-4be8-b381-094967e93821",
+      "name": "Polarr",
+      "title": "Polarr",
+      "remark": "Search Polarr's massive pool of user generated filters to make your photos and videos perfect.",
+      "url": "https://www.polarr.co/.well-known/ai-plugin-openapi.yaml",
+      "imageUrl": "https://www.polarr.com/favicon-256x256.png"
+    },
+    {
+      "id": "plugin-1e1fac93-e3f6-4b69-957d-ddd8f5f948b9",
+      "name": "DEV Community",
+      "title": "DEV Community",
+      "remark": "Plugin for recommending articles or users from DEV Community.",
+      "url": "https://dev.to/openapi.yml",
+      "imageUrl": "https://dev.to/logo.png"
+    },
+    {
+      "id": "plugin-b5df2a6d-16ce-4b2e-80b1-3fcd288eca6e",
+      "name": "Decision Journal",
+      "title": "Decision Journal",
+      "remark": "Become a better decision maker by keeping track of your decisions and reviewing how they turn out.",
+      "url": "https://decisionjournalapp.com/.well-known/openapi.yaml",
+      "imageUrl": "https://decisionjournalapp.com/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-27bee549-57ae-4454-a9c6-35fc0ff9f080",
+      "name": "Rentable Apartments",
+      "title": "Rentable Apartments",
+      "remark": "Get apartment options in a city of your choice, scoped to your needs and budget.",
+      "url": "https://www.rentable.co/openapi.yaml",
+      "imageUrl": "https://abodo-assets.s3.amazonaws.com/external/rentable-logo-red.png"
+    },
+    {
+      "id": "plugin-ec68cb54-acee-4330-8d94-f97b8347d525",
+      "name": "Public",
+      "title": "Public",
+      "remark": "Get real-time and historical market data, including asset prices, news, research, and comprehensive financial analysis.",
+      "url": "https://gpt-service-api.hellopublic.com/openapi.json",
+      "imageUrl": "https://universal.hellopublic.com/gpt/public-icon.png"
+    },
+    {
+      "id": "plugin-6ca313e8-9035-4bde-8542-7d107a1fb316",
+      "name": "Link Reader",
+      "title": "Link Reader",
+      "remark": "Reads the content of all kinds of links, like webpage, PDF, PPT, image, Word & other docs.",
+      "url": "https://gochitchat.ai/linkreader/openapi.yaml",
+      "imageUrl": "https://gochitchat.ai/linkreader/logo.png"
+    },
+    {
+      "id": "plugin-d2451505-86c4-40b4-b945-f6d13f081535",
+      "name": "Visla",
+      "title": "Visla",
+      "remark": "Create a short video from public stock footage based on your specified topic.",
+      "url": "https://openapi.visla.us/chatgpt-plugin/openapi.json",
+      "imageUrl": "https://www.visla.us/static/resources/img/logo-206.png"
+    },
+    {
+      "id": "plugin-08c964fb-7d50-481c-8b85-e623b9846a4d",
+      "name": "Coupert",
+      "title": "Coupert",
+      "remark": "Search for the internet\u2019s best coupons from thousands of online stores.",
+      "url": "https://www.coupert.com/api/v2/openai/docs",
+      "imageUrl": "https://www.coupert.com/img/favicon.svg"
+    },
+    {
+      "id": "plugin-6aeb6e9f-52c5-4b92-9bbe-6f0ea8503198",
+      "name": "Wishbucket",
+      "title": "Wishbucket",
+      "remark": "Unified product search across all Korean platforms and brands.",
+      "url": "https://www.phloxcorp.io/openapi.yaml",
+      "imageUrl": "https://www.phloxcorp.io/logo.png"
+    },
+    {
+      "id": "plugin-02ce3ffe-f0eb-4688-b990-4d181ebe29bb",
+      "name": "Yay! Forms",
+      "title": "Yay! Forms",
+      "remark": "Allows you to create AI-Powered Forms, Surveys, Quizzes, or Questionnaires on Yay! Forms.",
+      "url": "https://openai-plugin.yayforms.com/openapi.json",
+      "imageUrl": "https://app.yayforms.com/logo.svg"
+    },
+    {
+      "id": "plugin-d16827bf-4095-49c1-8914-5b0eea9972b1",
+      "name": "Glowing",
+      "title": "Glowing",
+      "remark": "Schedule and send daily SMS messages - reminders, inspiration, helpers and more.",
+      "url": "https://stage.glowing.ai/.well-known/openapi.yaml",
+      "imageUrl": "https://stage.glowing.ai/.well-known/glowing.png"
+    },
+    {
+      "id": "plugin-c6175037-25c5-4b97-a2b7-828a016be2f8",
+      "name": "ABCmouse",
+      "title": "ABCmouse",
+      "remark": "Provides fun and educational learning activities for children 2-8 years old.",
+      "url": "https://ai.abcmouse.com/openapi.yml",
+      "imageUrl": "https://ai.abcmouse.com/logo.png"
+    },
+    {
+      "id": "plugin-551393cc-a8cb-4f14-b043-da6cc040a69b",
+      "name": "Hubbub",
+      "title": "Hubbub",
+      "remark": "Local health risk & safety guidance for COVID-19, Flu, RSV and more in the US.",
+      "url": "https://www.openai.hubbubworld.com/openai/openapi.yaml",
+      "imageUrl": "https://cdn.hubbubworld.com/openai/i/hubbub-a-safer-world-256.png"
+    },
+    {
+      "id": "plugin-f6d6b1ec-8de5-46ff-b9c8-0dd839fd9cf5",
+      "name": "One Word Domains",
+      "title": "One Word Domains",
+      "remark": "Check the availability of a domain and compare prices across different registrars.",
+      "url": "https://oneword.domains/openapi.json",
+      "imageUrl": "https://oneword.domains/logo.png"
+    },
+    {
+      "id": "plugin-daefe64e-a304-4ddb-ab0b-943625d7d4c3",
+      "name": "C3 Glide",
+      "title": "C3 Glide",
+      "remark": "Get live aviation data for pilots. Ask questions about METARs, TAFs, NOTAMs for flight planning.",
+      "url": "https://c3glide-d9g5.boldstratus.com/c3glide-api/apiPluginSpec.yaml",
+      "imageUrl": "https://c3glide-d9g5.boldstratus.com/c3glide-api/assets/BoldStratus+Purple+Icon.png"
+    },
+    {
+      "id": "plugin-45270f21-3bd2-4674-ba8b-a717c5477364",
+      "name": "Likewise",
+      "title": "Likewise",
+      "remark": "Your media and entertainment companion. Get TV, Movies, Books & Podcast Recommendations.",
+      "url": "https://likewiserecommends.com/.well-known/openapi.yaml",
+      "imageUrl": "https://likewiserecommends.com/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-61795331-cf59-4487-89d0-388db77754d7",
+      "name": "Zillow",
+      "title": "Zillow",
+      "remark": "Your real estate assistant is here! Search listings, view property details, and get home with Zillow.",
+      "url": "https://plugins.zillow.com/.well-known/openapi.yaml",
+      "imageUrl": "https://delivery.digitalassets.zillowgroup.com/api/public/content/200x200_CMS_Full.png?v=60fab90c"
+    },
+    {
+      "id": "plugin-5fdcdf0b-1387-490a-905b-0e009f536182",
+      "name": "AITickerChat",
+      "title": "AITickerChat",
+      "remark": "Retrieve USA stock insights from SEC filings as well as Earnings Call Transcripts.",
+      "url": "https://stock-advisor.com/.well-known/openapi.yaml",
+      "imageUrl": "https://stock-advisor.com/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-fbb4dac3-7a06-4002-b60f-544e2c90da4c",
+      "name": "Trip.com",
+      "title": "Trip.com",
+      "remark": "Discover the ultimate travel companion - simplify your flight and hotel bookings. Enjoy your effortless trip!",
+      "url": "https://www.trip.com/ai-resource/trip/openapi.yaml",
+      "imageUrl": "https://ak-s.tripcdn.com/modules/ibu/online-home/ee6a046e4f5b73083c94ac36ec3f81e2.ee6a046e4f5b73083c94ac36ec3f81e2.png"
+    },
+    {
+      "id": "plugin-8657d452-9dbc-41c4-b20f-0e56a9058e38",
+      "name": "Savvy Trader AI",
+      "title": "Savvy Trader AI",
+      "remark": "Realtime stock, crypto and other investment data.",
+      "url": "https://static.savvytrader.com/files/openapi.yml",
+      "imageUrl": "https://savvytrader.com/android-chrome-192x192.png"
+    },
+    {
+      "id": "plugin-b5afd6e8-080c-4376-967d-716df8da0fa0",
+      "name": "Golden",
+      "title": "Golden",
+      "remark": "Get current factual data on companies from the Golden knowledge graph.",
+      "url": "https://chatgpt-plugin.prod.golden.dev/openapi.yaml",
+      "imageUrl": "https://chatgpt-plugin.prod.golden.dev/logo.png"
+    },
+    {
+      "id": "plugin-fe987041-b0b8-4f97-918a-c39b8af60eb9",
+      "name": "Lexi Shopper",
+      "title": "Lexi Shopper",
+      "remark": "Get product recommendations from your local Amazon store.",
+      "url": "https://lexi-shopping-assistant-chatgpt-plugin.iamnazzty.repl.co/openapi.yaml",
+      "imageUrl": "https://lexi-shopping-assistant-chatgpt-plugin.iamnazzty.repl.co/logo.png"
+    },
+    {
+      "id": "plugin-20eb36b7-ca36-44e0-8ec9-fb0c2848d2a6",
+      "name": "Keyplays Live Soccer",
+      "title": "Keyplays Live Soccer",
+      "remark": "Latest live soccer standings, results, commentary, tv stations, keyplays (with and without scores).",
+      "url": "https://keyplays.malcsilberman.repl.co/.well-known/openapi.yaml",
+      "imageUrl": "https://keyplays.malcsilberman.repl.co/static/img/icon.png"
+    },
+    {
+      "id": "plugin-bfd15472-35e7-4509-82df-2cbf9a4817b3",
+      "name": "BlockAtlas",
+      "title": "BlockAtlas",
+      "remark": "Search the US Census! Find data sets, ask questions, and visualize.",
+      "url": "https://blockatlas.com/openapi.json",
+      "imageUrl": "https://blockatlas.com/logo.png"
+    },
+    {
+      "id": "plugin-ee943b49-6a64-4d86-a8fd-9f27dd1d9953",
+      "name": "Open Trivia",
+      "title": "Open Trivia",
+      "remark": "Get trivia questions from various categories and difficulty levels.",
+      "url": "/openapi.json",
+      "imageUrl": "https://raw.githubusercontent.com/drengskapur/open-trivia-database-chat-plugin/main/icon.png"
+    },
+    {
+      "id": "plugin-6d3c12d5-82b9-4f10-87ee-a36018d6fa7b",
+      "name": "KeyMate.AI Search",
+      "title": "KeyMate.AI Search",
+      "remark": "Search the web by using a Custom Search Engine with KeyMate.AI, your AI-powered web search engine.",
+      "url": "https://searchweb.keymate.ai/.well-known/openapi.yaml",
+      "imageUrl": "https://searchweb.keymate.ai/.well-known/icon.png"
+    },
+    {
+      "id": "plugin-91ed5c8f-5662-4993-817a-da135c7d14a6",
+      "name": "PortfolioPilot",
+      "title": "PortfolioPilot",
+      "remark": "Your AI investing guide: portfolio assessment, recommendations, answers to all finance questions.",
+      "url": "https://portfoliopilot.com/openapi.yaml",
+      "imageUrl": "https://portfoliopilot.com/logo.png"
+    },
+    {
+      "id": "plugin-935ab9cd-d6bb-4f12-a197-3000b0881f3f",
+      "name": "Crafty Clues",
+      "title": "Crafty Clues",
+      "remark": "Guess the words that the AI craftily clues for you. Add restrictions to make the game more interesting!",
+      "url": "https://crafty-clues.jeevnayak.repl.co/openapi.yaml",
+      "imageUrl": "https://crafty-clues.jeevnayak.repl.co/static/logo.png"
+    },
+    {
+      "id": "plugin-e143c687-8c8f-46b9-9412-3dc1ec0b5d17",
+      "name": "Word Sneak",
+      "title": "Word Sneak",
+      "remark": "The AI has to sneak 3 secret words into your conversation. Guess the words to win the game!",
+      "url": "https://word-sneak.jeevnayak.repl.co/openapi.yaml",
+      "imageUrl": "https://word-sneak.jeevnayak.repl.co/static/logo.png"
+    },
+    {
+      "id": "plugin-e78c50fc-a6ea-4bee-b085-d9c5fbbd7316",
+      "name": "Redfin",
+      "title": "Redfin",
+      "remark": "Have questions about the housing market? Find the answers to help you win in today's market.",
+      "url": "https://www.redfin.com/webhooks/tron/descriptions/openapi.yaml",
+      "imageUrl": "https://ssl.cdn-redfin.com/vLATEST/images/logos/redfin-logo-square-red-500.png"
+    },
+    {
+      "id": "plugin-3cc9493a-82fa-4edc-82c1-5edf81c5e63a",
+      "name": "Kraftful",
+      "title": "Kraftful",
+      "remark": "Your product development coach. Ask about best practices. Get top gurus\u2019 product thinking.",
+      "url": "https://klever-chatgpt-plugin-prod.herokuapp.com/openapi.yaml",
+      "imageUrl": "https://klever-chatgpt-plugin-prod.herokuapp.com/logo.png"
+    },
+    {
+      "id": "plugin-0ca005bc-3180-486b-9efc-e04a5bb95800",
+      "name": "Bohita",
+      "title": "Bohita",
+      "remark": "Create apparel with any image you can describe! Get it delivered right to your door.",
+      "url": "https://gptshop.bohita.com/openapi.yaml",
+      "imageUrl": "https://gptshop.bohita.com/logo.png"
+    },
+    {
+      "id": "plugin-5c1b0379-6c56-487d-bf9a-b0a8a124a330",
+      "name": "Shimmer: Nutrition Coach",
+      "title": "Shimmer: Nutrition Coach",
+      "remark": "Track meals & gain insights for a healthier lifestyle from 1m+ restaurants & grocery stores.",
+      "url": "https://shimmer.ooo/openapi.yaml",
+      "imageUrl": "https://shimmer.ooo/logo.svg"
+    },
+    {
+      "id": "plugin-a1a56127-e351-4529-8a55-54a7f268ba8d",
+      "name": "Competitor PPC Ads",
+      "title": "Competitor PPC Ads",
+      "remark": "Discover your competitors' best PPC ads by entering their website address.",
+      "url": "https://ppc-optimizer.gcs.ai/openapi.yaml",
+      "imageUrl": "https://ppc-optimizer.gcs.ai/PaidAdsOptimizer-logo.png"
+    },
+    {
+      "id": "plugin-b42ce2d4-321a-4f6e-8169-54909a57d542",
+      "name": "Ambition",
+      "title": "Ambition",
+      "remark": "Search millions of jobs near you.",
+      "url": "https://api.remoteambition.com/ai/v1/api.json",
+      "imageUrl": "https://assets.remoteambition.com/ai-plugin-logo.png"
+    },
+    {
+      "id": "plugin-2c59c10b-910c-4e00-8b6e-6ee287ff0bee",
+      "name": "Manorlead",
+      "title": "Manorlead",
+      "remark": "Get a list of listings for rent or sale in cities across Canada and the US based on your search criteria.",
+      "url": "https://chatgpt.vipmanor.com/openapi.yaml",
+      "imageUrl": "https://chatgpt.vipmanor.com/logo.png"
+    },
+    {
+      "id": "plugin-1be4f5ad-e116-4784-9b8b-4779d63aadce",
+      "name": "SEO CORE AI",
+      "title": "SEO CORE AI",
+      "remark": "Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors.",
+      "url": "https://ai.seovendor.co/.well-known/openapi.yaml",
+      "imageUrl": "https://ai.seovendor.co/seo-analysis-logo.jpg"
+    },
+    {
+      "id": "plugin-1504a989-bd3c-4c4f-9ed8-5c4267f498eb",
+      "name": "KalendarAI",
+      "title": "KalendarAI",
+      "remark": "KalendarAI sales agents generate revenue with potential customers from 200+ million companies globally.",
+      "url": "https://kalendar.ai/openapi.yaml",
+      "imageUrl": "https://kalendar.ai/assets/logo-black-50c5284888eeea1d77f877d9a6736f1bf23533f975fae3939824cf429ad95e34.png"
+    },
+    {
+      "id": "plugin-99429410-1a9f-4814-a7ed-77f2e420fbea",
+      "name": "Algorithma",
+      "title": "Algorithma",
+      "remark": "Shape your virtual life with in this immersive life simulator game to begin Type /start to begin.",
+      "url": "https://algorithma.ruvnet.repl.co/openapi.json",
+      "imageUrl": "https://algorithma.replit.app/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-874e73d9-ca73-4698-8937-1c3684dd873d",
+      "name": "CreatiCode Scratch",
+      "title": "CreatiCode Scratch",
+      "remark": "Display Scratch programs as images and write 2D/3D programs using CreatiCode Scratch extensions.",
+      "url": "https://openai.creaticode.com/.well-known/openapi.yaml",
+      "imageUrl": "https://play.creaticode.com/tcode-static-files/images/newlogo200.png"
+    },
+    {
+      "id": "plugin-df2f5f73-11c0-4c8a-8710-13fccfd9511b",
+      "name": "Video Insights",
+      "title": "Video Insights",
+      "remark": "Interact with online video platforms like Youtube or Daily Motion.",
+      "url": "https://jettel.de/.well-known/openapi.yaml",
+      "imageUrl": "https://jettel.de/logo.png"
+    },
+    {
+      "id": "plugin-afda456f-7bf9-497c-bdb9-6bf9bad099e1",
+      "name": "Tutory",
+      "title": "Tutory",
+      "remark": "Access affordable, on-demand tutoring and education right at your fingertips.",
+      "url": "https://plugin-dtwewgpm2a-uc.a.run.app/openapi.yaml",
+      "imageUrl": "https://plugin-dtwewgpm2a-uc.a.run.app/logo.png"
+    },
+    {
+      "id": "plugin-c96cd078-65c1-493c-a152-0b53c560e306",
+      "name": "Tasty Recipes",
+      "title": "Tasty Recipes",
+      "remark": "Discover recipe ideas, meal plans and cooking tips from Tasty's millions of users!",
+      "url": "https://api.tasty.co/.well-known/openapi.yaml",
+      "imageUrl": "https://api.tasty.co/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-b278cdc5-67ce-471f-a8fb-4459e9cff996",
+      "name": "MixerBox OnePlayer",
+      "title": "MixerBox OnePlayer",
+      "remark": "Unlimited music, podcasts, and videos across various genres. Enjoy endless listening with our rich playlists!",
+      "url": "https://www.mbplayer.com/openapi.json",
+      "imageUrl": "https://www.mbplayer.com/favicon-app_store_icon.png"
+    },
+    {
+      "id": "plugin-331a40f6-0881-4159-aace-3aa7fb1679d7",
+      "name": "Tabelog",
+      "title": "Tabelog",
+      "remark": "Allows you to find restaurants in Japan that have availability for reservations.",
+      "url": "https://chatgpt-plugin.tabelog.com/openapi.yaml",
+      "imageUrl": "https://tblg.k-img.com/images/smartphone/icon/app_icon_tabelog_flat_3x.png"
+    },
+    {
+      "id": "plugin-71202ff3-2240-4ccb-9a4b-3d49b9162cbc",
+      "name": "Speechki",
+      "title": "Speechki",
+      "remark": "The easiest way to convert texts to ready-to-use audio \u2014 download link, audio player page, or embed!",
+      "url": "https://plugin.speechki.org/openapi.yml",
+      "imageUrl": "https://plugin.speechki.org/icon.svg"
+    },
+    {
+      "id": "plugin-2a1f759e-c9e4-44c8-bfac-b924e13b38e4",
+      "name": "Magnetis",
+      "title": "Magnetis",
+      "remark": "Magnetis is a digital wealth manager. Get updated data on portfolios returns and allocations. Ask me about Magnetis.",
+      "url": "https://mag-gpt-nextjs.vercel.app/.well-known/openapi.json",
+      "imageUrl": "https://mag-gpt-nextjs.vercel.app/logo.png"
+    },
+    {
+      "id": "plugin-3144db30-b419-4558-8d53-309da834dd05",
+      "name": "Hauling Buddies",
+      "title": "Hauling Buddies",
+      "remark": "Locate dependable animal transporters using recommendations, reviews, and regulatory compliance search features.",
+      "url": "https://haulingbuddies.com/.well-known/openapi.yaml",
+      "imageUrl": "https://haulingbuddies.com/assets/icon_68_68-f5783fef14eb6cefa4084be40395b4e7402c395fd5441c0ceffdfe882c70d7f2.png"
+    },
+    {
+      "id": "plugin-0f8f251d-5db4-41eb-be03-d1465a8cad90",
+      "name": "Giftwrap",
+      "title": "Giftwrap",
+      "remark": "Ask about gift ideas for any occasion and recipient. Get it wrapped and delivered, no address needed.",
+      "url": "https://api.giftwrap.ai/.well-known/openapi.yaml",
+      "imageUrl": "https://giftwrap.ai/logo.png"
+    },
+    {
+      "id": "plugin-da9afb50-fc07-4d30-b606-51ed1b105bfc",
+      "name": "BizToc",
+      "title": "BizToc",
+      "remark": "Search BizToc for business & finance news.",
+      "url": "https://ai.biztoc.com/openapi.yaml",
+      "imageUrl": "https://biztoc.com/favicon.png"
+    },
+    {
+      "id": "plugin-176f3269-57f3-4413-9cdf-a61c104f06d5",
+      "name": "Speak",
+      "title": "Speak",
+      "remark": "Learn how to say anything in another language with Speak, your AI-powered language tutor.",
+      "url": "https://api.speak.com/openapi.yaml",
+      "imageUrl": "https://api.speak.com/ai-plugin-logo.png"
+    },
+    {
+      "id": "plugin-afe106d4-b7b9-4684-a3bc-9311ef896123",
+      "name": "OpenTable",
+      "title": "OpenTable",
+      "remark": "Allows you to search for restaurants available for booking dining experiences",
+      "url": "https://opentable.com/chatgpt",
+      "imageUrl": "https://cdn.otstatic.com/third-party/images/opentable-logo-512.png"
+    },
+    {
+      "id": "plugin-8ce293f6-f674-461a-805f-d444779414e8",
+      "name": "Shop",
+      "title": "Shop",
+      "remark": "Search for millions of products from the world's greatest brands.",
+      "url": "https://server.shop.app/openai/v1/api.json",
+      "imageUrl": "https://cdn.shopify.com/shop-assets/static_uploads/shop-logo-white-bg-purple.png"
+    },
+    {
+      "id": "plugin-7b21a4f0-7cb1-4283-9d8c-155fb4888075",
+      "name": "FiscalNote",
+      "title": "FiscalNote",
+      "remark": "FiscalNote enables access to select market-leading, real-time data sets for legal, political, and regulatory information",
+      "url": "https://api.factba.se/openapi.json",
+      "imageUrl": "https://api.factba.se/static/fn-logo.png"
+    },
+    {
+      "id": "plugin-d1d6eb04-3375-40aa-940a-c2fc57ce0f51",
+      "name": "Wolfram",
+      "title": "Wolfram",
+      "remark": "Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.",
+      "url": "https://www.wolframalpha.com/.well-known/apispec.json",
+      "imageUrl": "https://www.wolframcdn.com/images/icons/Wolfram.png"
+    },
+    {
+      "id": "plugin-815c4f73-adf7-48d7-b1bb-26144004ca36",
+      "name": "Zapier",
+      "title": "Zapier",
+      "remark": "Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more.",
+      "url": "https://nla.zapier.com/api/v1/dynamic/openapi.json",
+      "imageUrl": "https://cdn.zappy.app/8f853364f9b383d65b44e184e04689ed.png"
+    },
+    {
+      "id": "plugin-0710a98f-4710-4949-a6a7-e750da14db1c",
+      "name": "Expedia",
+      "title": "Expedia",
+      "remark": "Bring your trip plans to life \u2013 get there, stay there, find things to see and do.",
+      "url": "https://apim.expedia.com/openai/openapi.yaml",
+      "imageUrl": "https://a.travel-assets.com/egds/marks/brands/expedia/onekey__chiclet_square.svg"
+    },
+    {
+      "id": "plugin-b9f4e4ac-b22a-410f-8959-e069543fce4b",
+      "name": "Instacart",
+      "title": "Instacart",
+      "remark": "What\u2019s cookin'? Ask about recipes, meal plans, & more -- and get ingredients delivered from 40,000+ stores!",
+      "url": "https://www.instacart.com/plugin/openapi.yaml",
+      "imageUrl": "https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png"
+    },
+    {
+      "id": "plugin-0986fdf9-796d-45ff-9540-318c10c23a30",
+      "name": "Klarna Shopping",
+      "title": "Klarna Shopping",
+      "remark": "Search and compare prices from thousands of online shops.",
+      "url": "https://www.klarna.com/us/shopping/public/openai/v0/api-docs/",
+      "imageUrl": "https://www.klarna.com/assets/sites/5/2020/04/27143923/klarna-K-150x150.jpg"
+    },
+    {
+      "id": "plugin-43fe9e1c-665a-4c22-a0f4-2a2ec195da51",
+      "name": "KAYAK",
+      "title": "KAYAK",
+      "remark": "Search flights, stays & rental cars or get recommendations where you can go on your budget.",
+      "url": "https://www.kayak.com/.well-known/openapi.yaml",
+      "imageUrl": "https://content.r9cdn.net/images/apple-touch-icons/apple-touch-icon-120x120.png"
+    }
+  ]
 }
