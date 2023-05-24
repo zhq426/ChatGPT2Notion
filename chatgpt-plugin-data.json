@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "id": "plugin-66a05284-a738-448b-9f65-37c7ec649202",
+      "name": "GetYourGuide",
+      "title": "GetYourGuide",
+      "remark": "Find tours, excursions and other travel activities.",
+      "url": "https://llmsearch.gygservice.com/openapi.json",
+      "imageUrl": "https://code.getyourguide.com/assets/gyg-logo.svg"
+    },
+    {
       "id": "plugin-c26a258b-3781-4b83-bee7-6501f4b110c6",
       "name": "Klook",
       "title": "Klook",
@@ -25,6 +33,14 @@
       "imageUrl": "https://quickrecall.cards/logo.png"
     },
     {
+      "id": "plugin-00d0362e-1bf4-4771-aaef-6f525e769b52",
+      "name": "Ask MFM",
+      "title": "Ask MFM",
+      "remark": "Ask the hosts of the My First Million questions about business, tech, entrepreneurship, and life.",
+      "url": "https://askmfm.writelikeshaan.com/openapi.yaml",
+      "imageUrl": "https://askmfm.writelikeshaan.com/logo.png"
+    },
+    {
       "id": "plugin-e5009c08-c6c8-4195-977f-16f39a7d3b7b",
       "name": "ChatWithVideo",
       "title": "ChatWithVideo",
@@ -39,6 +55,14 @@
       "remark": "Get your tailored workout plan and instructions with videos - AI-powered Workout Coach, Planfit.",
       "url": "https://chatgptplugin.planfit.ai/openapi.yaml",
       "imageUrl": "https://chatgptplugin.planfit.ai/logo.png"
+    },
+    {
+      "id": "plugin-2101d946-cd01-4f5e-808e-833439edb933",
+      "name": "ndricks Sports",
+      "title": "ndricks Sports",
+      "remark": "Get information about pro teams (NHL, NBA, NFL, MLB) teams by calling the ndricks Software Sports API.",
+      "url": "https://api.ndricks.com/.well-known/openapi.yaml",
+      "imageUrl": "https://api.ndricks.com/logo.jpg"
     },
     {
       "id": "plugin-f2ff4483-708c-4721-9b0b-6964bed610ab",
@@ -127,14 +151,6 @@
       "remark": "Compare Prices & Discover the Latest Offers from thousands of online shops in Australia.",
       "url": "https://buywisely.com.au/.well-known/openapi.yaml",
       "imageUrl": "https://buywisely.com.au/assets/logo.png"
-    },
-    {
-      "id": "plugin-91353e46-a494-40e7-806a-6c15347bc281",
-      "name": "ImageSearch",
-      "title": "ImageSearch",
-      "remark": "Find and display image from unsplash.",
-      "url": "https://imagesearch.jjzhang.repl.co/.well-known/openapi.yaml",
-      "imageUrl": "https://imagesearch.jjzhang.repl.co/logo.png"
     },
     {
       "id": "plugin-659d0b67-ea16-4c9b-86de-7d0652eac6ff",
@@ -465,14 +481,6 @@
       "imageUrl": "https://lorelattice.com/.well-known/logo.png"
     },
     {
-      "id": "plugin-e3ccf645-9cc3-4692-a267-39adc13e9195",
-      "name": "Prompt Perfect",
-      "title": "Prompt Perfect",
-      "remark": "Type 'perfect' to craft the perfect prompt, every time.",
-      "url": "https://xyz-prompt-perfect.uc.r.appspot.com/openapi.yaml",
-      "imageUrl": "https://xyz-prompt-perfect.uc.r.appspot.com/static/prompt_perfect_logo.png"
-    },
-    {
       "id": "plugin-daf2867b-c59d-41a7-8c5d-5be52f68e415",
       "name": "edX",
       "title": "edX",
@@ -657,6 +665,14 @@
       "imageUrl": "https://delivery.digitalassets.zillowgroup.com/api/public/content/200x200_CMS_Full.png?v=60fab90c"
     },
     {
+      "id": "plugin-5b0d9237-2e0a-4604-bc83-096fb0ccf43c",
+      "name": "ScholarAI",
+      "title": "ScholarAI",
+      "remark": "Unlock the power of scientific research with peer-reviewed papers from PubMed, Arxiv, Springer, and more.",
+      "url": "https://scholar-ai.net/openapi.yaml",
+      "imageUrl": "https://scholar-ai.net/logo.png"
+    },
+    {
       "id": "plugin-5fdcdf0b-1387-490a-905b-0e009f536182",
       "name": "AITickerChat",
       "title": "AITickerChat",
@@ -703,6 +719,14 @@
       "remark": "Latest live soccer standings, results, commentary, tv stations, keyplays (with and without scores).",
       "url": "https://keyplays.malcsilberman.repl.co/.well-known/openapi.yaml",
       "imageUrl": "https://keyplays.malcsilberman.repl.co/static/img/icon.png"
+    },
+    {
+      "id": "plugin-feffbc7d-d8f9-4f3f-a65e-e8d2eaabef27",
+      "name": "Chess",
+      "title": "Chess",
+      "remark": "Unleash your inner chess master with this interactive chess experience! You can play against a novice or a grandmaster!",
+      "url": "https://gpt-chess.atomic14.com/openapi.yaml",
+      "imageUrl": "https://gpt-chess.atomic14.com/logo.png"
     },
     {
       "id": "plugin-bfd15472-35e7-4509-82df-2cbf9a4817b3",
@@ -983,14 +1007,6 @@
       "remark": "What\u2019s cookin'? Ask about recipes, meal plans, & more -- and get ingredients delivered from 40,000+ stores!",
       "url": "https://www.instacart.com/plugin/openapi.yaml",
       "imageUrl": "https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png"
-    },
-    {
-      "id": "plugin-0986fdf9-796d-45ff-9540-318c10c23a30",
-      "name": "Klarna Shopping",
-      "title": "Klarna Shopping",
-      "remark": "Search and compare prices from thousands of online shops.",
-      "url": "https://www.klarna.com/us/shopping/public/openai/v0/api-docs/",
-      "imageUrl": "https://www.klarna.com/assets/sites/5/2020/04/27143923/klarna-K-150x150.jpg"
     },
     {
       "id": "plugin-43fe9e1c-665a-4c22-a0f4-2a2ec195da51",
