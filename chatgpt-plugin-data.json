@@ -1,12 +1,180 @@
 {
   "data": [
     {
+      "id": "plugin-20700be6-8823-41c1-9fad-505da044dfb3",
+      "name": "Uniket",
+      "title": "Uniket",
+      "remark": "Elevate your shopping experience with Uniket.",
+      "url": "https://www.uniket.store/ext/chatgpt-plugin/application/api/v1.0/openapi.yaml",
+      "imageUrl": "https://hdn-1.fynd.com/company/884/applications/000000000000000000000004/application/pictures/favicon/original/TzlAlZsaH-Uniket.png"
+    },
+    {
+      "id": "plugin-79faf8e0-a74a-4d01-9009-5af637b5b950",
+      "name": "Urban New Apartments",
+      "title": "Urban New Apartments",
+      "remark": "Search and find the best new apartments and townhomes from Australia\u2019s leading property developments",
+      "url": "https://api.urban.com.au/openapi.yaml",
+      "imageUrl": "https://www.urban.com.au/urban_logo.png"
+    },
+    {
+      "id": "plugin-a38a1bd6-2993-4719-bb28-2fd1485f1c73",
+      "name": "APEX Map",
+      "title": "APEX Map",
+      "remark": "Checking the current APEX Legends Ranked Map.",
+      "url": "https://941p7w-5003.csb.app/openapi.yaml",
+      "imageUrl": "https://941p7w-5003.csb.app/logo.jpg"
+    },
+    {
+      "id": "plugin-60165532-9759-4218-97a0-55e8d970c6f1",
+      "name": "GoFynd",
+      "title": "GoFynd",
+      "remark": "Elevate your shopping experience with GoFynd.",
+      "url": "https://www.gofynd.com/ext/chatgpt-plugin/application/api/v1.0/openapi.yaml",
+      "imageUrl": "https://hdn-1.fynd.com/company/884/applications/000000000000000000000001/application/pictures/favicon/resize-w:256/HRblBIPDT-Fynd.jpeg"
+    },
+    {
+      "id": "plugin-6114e95b-af33-48f5-90c0-15e863c6b08a",
+      "name": "Prompt Perfect",
+      "title": "Prompt Perfect",
+      "remark": "Type 'perfect' to craft the perfect prompt, every time.",
+      "url": "https://promptperfect.xyz/openapi.yaml",
+      "imageUrl": "https://promptperfect.xyz/static/prompt_perfect_logo.png"
+    },
+    {
+      "id": "plugin-bc905a65-fb2e-4b89-8e96-222e54cea458",
+      "name": "WordCloud",
+      "title": "WordCloud",
+      "remark": "Create word cloud images from text.",
+      "url": "https://plugin-b0025af30daf4bea989db7074f90b64a-jexkai4vea-uc.a.run.app/openapi.yaml",
+      "imageUrl": "https://plugin-b0025af30daf4bea989db7074f90b64a-jexkai4vea-uc.a.run.app/logo.png"
+    },
+    {
+      "id": "plugin-5dfead51-bc50-4a74-a50e-bfcb52598f41",
+      "name": "Brandfetch",
+      "title": "Brandfetch",
+      "remark": "Retrieve company and brand data including logos, colors, fonts, and other brand information.",
+      "url": "https://chatgpt-plugin.brandfetch.io/openapi.yaml",
+      "imageUrl": "https://asset.brandfetch.io/idL0iThUh6/idls3LaPPQ.png"
+    },
+    {
+      "id": "plugin-0b136121-87cd-42fd-af75-2e7472779749",
+      "name": "ChatWithGit",
+      "title": "ChatWithGit",
+      "remark": "Search code on GitHub repositories based on a query.",
+      "url": "https://gitsearch.sdan.io/openapi.yaml",
+      "imageUrl": "https://gitsearch.sdan.io/logo.png"
+    },
+    {
+      "id": "plugin-868d873a-4e31-46e9-bc92-9367c7447277",
+      "name": "PaperChat",
+      "title": "PaperChat",
+      "remark": "Search through arXiv publications.",
+      "url": "https://paperchat.fwdoperators.com/.well-known/openapi.yaml",
+      "imageUrl": "https://paperchat.fwdoperators.com/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-63214587-ccde-4838-803a-3aac8c7b7579",
+      "name": "Mallorca Magic Property Search",
+      "title": "Mallorca Magic Property Search",
+      "remark": "Discover your dream property in Mallorca with our AI-Power. Find the perfect match from over 75,000 listings!",
+      "url": "https://propertysearch-5831-openai.langdock.com/openapi.yaml",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/security-web-app-e4217.appspot.com/o/90fe06ad-e2a5-479e-98dd-8b7812c3d2c9%2Ficonlogo.png?alt=media&token=f065f33b-419e-4c09-b8cd-71e38312874d"
+    },
+    {
+      "id": "plugin-0609b24f-5c80-4864-af90-c7c570d65375",
+      "name": "Scraper",
+      "title": "Scraper",
+      "remark": "Scrape content from webpages by providing a URL.",
+      "url": "https://scraper.gafo.tech/openapi.yaml",
+      "imageUrl": "https://scraper.gafo.tech/logo.png"
+    },
+    {
+      "id": "plugin-b7e81277-528a-4572-9d41-2f2ccdf2e38a",
+      "name": "Bookworm",
+      "title": "Bookworm",
+      "remark": "AI-powered personalized book recommendations, scanning countless titles to find your perfect read.",
+      "url": "https://bookworm.gngn.at/openapi.yaml",
+      "imageUrl": "https://bookworm.gngn.at/logo.png"
+    },
+    {
+      "id": "plugin-7a74ee0a-a204-4695-8cb3-15f472eda4e4",
+      "name": "Placid.app",
+      "title": "Placid.app",
+      "remark": "A design assistant that creates marketing visuals from your templates.",
+      "url": "https://placid.app/openapi.json",
+      "imageUrl": "https://placid.app/logo-openai.jpg"
+    },
+    {
       "id": "plugin-66a05284-a738-448b-9f65-37c7ec649202",
       "name": "GetYourGuide",
       "title": "GetYourGuide",
       "remark": "Find tours, excursions and other travel activities.",
       "url": "https://llmsearch.gygservice.com/openapi.json",
       "imageUrl": "https://code.getyourguide.com/assets/gyg-logo.svg"
+    },
+    {
+      "id": "plugin-7cac8655-3d59-4ad1-947d-97776f78f9d5",
+      "name": "Substack IQ",
+      "title": "Substack IQ",
+      "remark": "Search, analyze, & summarize Substack newsletters, retrieve articles, and discover new Substacks!",
+      "url": "https://api.substackiq.com/openapi.yaml",
+      "imageUrl": "https://api.substackiq.com/logo.png"
+    },
+    {
+      "id": "plugin-56d9e1ed-fef7-4354-bd30-011cf5dbf616",
+      "name": "Clinical Trial Radar",
+      "title": "Clinical Trial Radar",
+      "remark": "Discover current info on global clinical trials, organizations, diseases, and biomarkers from public & private studies.",
+      "url": "https://trialradar2.marketflare.repl.co/.well-known/openapi.yaml",
+      "imageUrl": "https://www.marketflare.com/wp-content/uploads/2015/12/mf_icon.png"
+    },
+    {
+      "id": "plugin-a1d67a69-9d15-4706-bd69-122897f32b1d",
+      "name": "ChampDex",
+      "title": "ChampDex",
+      "remark": "Chat with your favorite League of Legends champions!",
+      "url": "https://champdex.com/openapi.yaml",
+      "imageUrl": "https://champdex.com/img/logo.png"
+    },
+    {
+      "id": "plugin-0ddaa2df-535a-4fe6-ab11-fd76be5efed7",
+      "name": "Job Search UK",
+      "title": "Job Search UK",
+      "remark": "Get the latest job posts from the UK's top job boards including Reed, Indeed, and others.",
+      "url": "https://gptjobsearch.uk/.well-known/openapi.yaml",
+      "imageUrl": "https://gptjobsearch.uk/logo.svg"
+    },
+    {
+      "id": "plugin-f59b4934-f0a3-452a-a919-1bb5db1c716b",
+      "name": "What To Watch",
+      "title": "What To Watch",
+      "remark": "Search for current shows, get recommendations, and find out where things are streaming.",
+      "url": "https://gpt-show-search.fly.dev/openapi.yaml",
+      "imageUrl": "https://gpt-show-search.fly.dev/images/logo.png"
+    },
+    {
+      "id": "plugin-4f788001-de18-4d56-864e-9ed3e5a04e8e",
+      "name": "NFTs",
+      "title": "NFTs",
+      "remark": "Get the important details of any NFT collection and ask for insights based on that data!",
+      "url": "https://nftflooralerts.com/ai-plugin/openapi.yaml",
+      "imageUrl": "https://nftflooralerts.com/ai-plugin/nft-token.png"
+    },
+    {
+      "id": "plugin-c31ec7be-768c-40e8-a3f5-4b4340d33401",
+      "name": "CarYardBard",
+      "title": "CarYardBard",
+      "remark": "AI-Powered Car Sales Ad Generator for Australian Car Dealers.",
+      "url": "https://api.caryardbard.com/openai.yaml",
+      "imageUrl": "https://app.caryardbard.com/assets/images/cyb-square.png"
+    },
+    {
+      "id": "plugin-f1aaf2ad-6dca-42d1-9037-6f75089786f4",
+      "name": "Meme Creator",
+      "title": "Meme Creator",
+      "remark": "Use Meme Creator to create memes on demand using the power of AI!",
+      "url": "https://meme-creator-production.vercel.app/.well-known/openapi.yaml",
+      "imageUrl": "https://meme-creator-production.vercel.app/.well-known/logo.png"
     },
     {
       "id": "plugin-c26a258b-3781-4b83-bee7-6501f4b110c6",
@@ -25,20 +193,20 @@
       "imageUrl": "https://chatgpt.boolio.co.kr/logo.png"
     },
     {
+      "id": "plugin-f9b0957f-1093-465d-8fa1-58cdaaaa2ed7",
+      "name": "Sakenowa",
+      "title": "Sakenowa",
+      "remark": "Find Sake and get detailed information in various ways.",
+      "url": "https://sakenowa.com/ai-tools/openapi.yaml",
+      "imageUrl": "https://sakenowa.com/ai-tools/logo.png"
+    },
+    {
       "id": "plugin-13207d0c-4dda-4ac1-a6ac-03f4b5bbbb0c",
       "name": "QuickRecall",
       "title": "QuickRecall",
       "remark": "Create flashcards and review them with spaced repeition.",
       "url": "https://quickrecall.cards/openapi.json",
       "imageUrl": "https://quickrecall.cards/logo.png"
-    },
-    {
-      "id": "plugin-00d0362e-1bf4-4771-aaef-6f525e769b52",
-      "name": "Ask MFM",
-      "title": "Ask MFM",
-      "remark": "Ask the hosts of the My First Million questions about business, tech, entrepreneurship, and life.",
-      "url": "https://askmfm.writelikeshaan.com/openapi.yaml",
-      "imageUrl": "https://askmfm.writelikeshaan.com/logo.png"
     },
     {
       "id": "plugin-e5009c08-c6c8-4195-977f-16f39a7d3b7b",
@@ -49,6 +217,22 @@
       "imageUrl": "https://chatwithvideo.sdan.io/logo.png"
     },
     {
+      "id": "plugin-bb1c59b6-0f9a-4aa1-b88d-e93df52e730f",
+      "name": "Weather",
+      "title": "Weather",
+      "remark": "Provides weather forecast based on location. Includes temperature, precipitation, cloud cover, wind and much more.",
+      "url": "https://weather--vicentescode.repl.co/openapi.yaml",
+      "imageUrl": "https://weather--vicentescode.repl.co/logo.png"
+    },
+    {
+      "id": "plugin-bc4f531a-124c-4fec-8b84-3aa2bdbf9c90",
+      "name": "Aus Surf Report",
+      "title": "Aus Surf Report",
+      "remark": "Get today's surf report for any break throughout Australia!",
+      "url": "https://surfreport.orrenprunckun.com/openapi.yaml",
+      "imageUrl": "https://surfreport.orrenprunckun.com/surf-report.png"
+    },
+    {
       "id": "plugin-730917c2-14a2-4c86-a0ce-5c9055326a68",
       "name": "Planfit",
       "title": "Planfit",
@@ -57,12 +241,84 @@
       "imageUrl": "https://chatgptplugin.planfit.ai/logo.png"
     },
     {
+      "id": "plugin-4b1aa8ec-b110-48b6-94e2-a8584a55beb5",
+      "name": "Questmate Forms",
+      "title": "Questmate Forms",
+      "remark": "Create forms, checklists and workflows (we call 'em Quests!) directly from ChatGPT.",
+      "url": "https://chatgpt-plugin.questmate.com/api/openapi.yaml",
+      "imageUrl": "https://questmate-static-public.s3.us-east-1.amazonaws.com/questmate-app-logo-512-openai.png"
+    },
+    {
+      "id": "plugin-39826177-81b6-4652-8fde-87b4f39e3719",
+      "name": "Bitcoin Sentiment",
+      "title": "Bitcoin Sentiment",
+      "remark": "Track the current price of Bitcoin and the market sentiment based on the last 20 news media mentions!",
+      "url": "https://bitcoin.orrenprunckun.com/openapi.yaml",
+      "imageUrl": "https://bitcoin.orrenprunckun.com/bitcoin.png"
+    },
+    {
+      "id": "plugin-21bce2d9-e5ad-4f30-ae98-b4fae5fd5e97",
+      "name": "Aus Petrol Prices",
+      "title": "Aus Petrol Prices",
+      "remark": "Ask for the average daily petrol price for any state or capital city region in Australia!",
+      "url": "https://petrolpricepredictor.com/ai-plugin/openapi.yaml",
+      "imageUrl": "https://petrolpricepredictor.com/petrol-price-predictor-icon.png"
+    },
+    {
+      "id": "plugin-6671aab1-a668-452a-b608-cf34c9838b28",
+      "name": "Mindart",
+      "title": "Mindart",
+      "remark": "Career test to help you find your dream job, with automation risk and average salary.",
+      "url": "https://mindart.app/openapi.yaml",
+      "imageUrl": "https://mindart.app/img/mindart-logo.svg"
+    },
+    {
+      "id": "plugin-e65d9535-4c2e-4628-80f1-659f1794b546",
+      "name": "AmazingTalker",
+      "title": "AmazingTalker",
+      "remark": "Elevate your language learning at any level with personalized 1-on-1 online lessons from tutors across the world.",
+      "url": "https://en.amazingtalker.com/.well-known/openapi.yaml",
+      "imageUrl": "https://en.amazingtalker.com/.well-known/logo.png"
+    },
+    {
       "id": "plugin-2101d946-cd01-4f5e-808e-833439edb933",
       "name": "ndricks Sports",
       "title": "ndricks Sports",
       "remark": "Get information about pro teams (NHL, NBA, NFL, MLB) teams by calling the ndricks Software Sports API.",
       "url": "https://api.ndricks.com/.well-known/openapi.yaml",
       "imageUrl": "https://api.ndricks.com/logo.jpg"
+    },
+    {
+      "id": "plugin-06ef9b2d-f080-47ba-b24f-10329f73127e",
+      "name": "HTTP Webhooks",
+      "title": "HTTP Webhooks",
+      "remark": "Allows you to write, deploy, and manage HTTP Webhooks in JavaScript, right from the chat.",
+      "url": "https://webhooks.ai.rpt.dev/openapi.yaml",
+      "imageUrl": "https://dash.repeat.dev/logo.jpg"
+    },
+    {
+      "id": "plugin-011361c2-933d-49f0-b88c-15e965c814e5",
+      "name": "ChatWithWebsite",
+      "title": "ChatWithWebsite",
+      "remark": "Have a conversation with any website, powered by magicform.ai",
+      "url": "https://chatwithwebsite.sdan.io/openapi.yaml",
+      "imageUrl": "https://chatwithwebsite.sdan.io/logo.png"
+    },
+    {
+      "id": "plugin-a261f428-2df0-4a0a-b91b-9d22443bb74e",
+      "name": "Easy Resume",
+      "title": "Easy Resume",
+      "remark": "Quickly create and edit your resume with the option to download as a docx or pdf, and find the job you deserve!",
+      "url": "https://easy-resume.net/openapi.yaml",
+      "imageUrl": "https://easy-resume.net/logo.png"
+    },
+    {
+      "id": "plugin-9335c256-4658-4376-bac8-a0baa5c1c889",
+      "name": "Outschool",
+      "title": "Outschool",
+      "remark": "Search for top-quality online classes and teachers on Outschool.",
+      "url": "https://chatgpt-plugin.outschool.com/openapi.json",
+      "imageUrl": "https://chatgpt-plugin.outschool.com/logo.png"
     },
     {
       "id": "plugin-f2ff4483-708c-4721-9b0b-6964bed610ab",
@@ -81,6 +337,14 @@
       "imageUrl": "https://tabler-icons.io/static/tabler-icons/icons/brand-speedtest.svg"
     },
     {
+      "id": "plugin-848db1dd-9161-4891-af97-5db1074dcc47",
+      "name": "SEO Assistant",
+      "title": "SEO Assistant",
+      "remark": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content.",
+      "url": "https://webfx.ai/.well-known/openapi.yaml",
+      "imageUrl": "https://webfx.ai/.well-known/logo.png"
+    },
+    {
       "id": "plugin-57e9abba-09ab-4d25-99f6-34db48217965",
       "name": "FundsDB",
       "title": "FundsDB",
@@ -97,12 +361,52 @@
       "imageUrl": "https://orrenprunckun.com/ai-plugins/ccc-icon.png"
     },
     {
+      "id": "plugin-147a24f2-4aed-4b42-8ba8-98df3c0c2adb",
+      "name": "JiggyBase",
+      "title": "JiggyBase",
+      "remark": "Use the knowledge in your JiggyBase document collections to help produce factual, up-to-date chat responses.",
+      "url": "https://jiggybase.plugin.jiggy.ai/.well-known/openapi.yaml",
+      "imageUrl": "https://jiggybase.plugin.jiggy.ai/.well-known/logo.png"
+    },
+    {
       "id": "plugin-0fe485cd-d658-481b-89fc-c4fa32f1ec9f",
       "name": "Abridged Due Diligence",
       "title": "Abridged Due Diligence",
       "remark": "Discover the details! Search through recent SEC filings, with links to deeper analysis.",
       "url": "https://vector-api.fly.dev/.well-known/openapi.yaml",
       "imageUrl": "https://vector-api.fly.dev/.well-known/logo.png"
+    },
+    {
+      "id": "plugin-8b2a2334-361e-4813-83b1-d04ac231161b",
+      "name": "Agones",
+      "title": "Agones",
+      "remark": "Agones provides soccer (football) results for matches played all over the world in the past 15 years.",
+      "url": "https://agones.gr/.well-known/chatgpt.json",
+      "imageUrl": "https://agones.gr/static/img/favicon/android-chrome-192x192.png"
+    },
+    {
+      "id": "plugin-c0a7a473-7149-4065-9d54-f722bd7f3e59",
+      "name": "CT Criteria Parser",
+      "title": "CT Criteria Parser",
+      "remark": "Analyze eligibility criteria in ClinicalTrials.gov. Example input: nctid NCT05859269",
+      "url": "https://ctcp.japaneast.cloudapp.azure.com/openapi.yaml",
+      "imageUrl": "https://ctcp.japaneast.cloudapp.azure.com/logo.png"
+    },
+    {
+      "id": "plugin-d7d3b205-f58a-4c75-be03-e3d8960a0b76",
+      "name": "Web Requests",
+      "title": "Web Requests",
+      "remark": "Goodbye Knowledge Cutoff, Hello World! This is your AI assistant's web browser. Just enter a URL. Google, Wiki, GitHub.",
+      "url": "https://plugin.wegpt.ai/openapi.json",
+      "imageUrl": "https://plugin.wegpt.ai/static/logo.png"
+    },
+    {
+      "id": "plugin-e531711a-09ce-4b09-99d6-bc1ce6d634e8",
+      "name": "LawyerPR",
+      "title": "LawyerPR",
+      "remark": "Matching your ideal lawyer, in Japan. Let's Start with a Preliminary Review.",
+      "url": "https://lawyerpr.herokuapp.com/.well-known/openapi.yaml",
+      "imageUrl": "https://lawyerpr.herokuapp.com/.well-known/logo.png"
     },
     {
       "id": "plugin-a594a34b-81e8-4a78-a08f-2bc08fce4c26",
@@ -121,6 +425,14 @@
       "imageUrl": "https://gptnews.uk/logo.svg"
     },
     {
+      "id": "plugin-e43ceb66-0ed6-4b00-af39-c32e4b378ff2",
+      "name": "B12 AI Websites",
+      "title": "B12 AI Websites",
+      "remark": "Create a professional, engaging, and user-friendly website for your business in seconds using AI.",
+      "url": "https://b12.io/plugins/openapi.yaml",
+      "imageUrl": "https://www.b12.io/static-assets/images/b12-logo-purple-bg.png"
+    },
+    {
       "id": "plugin-42224a4e-2339-499b-b602-f9f3aafed6de",
       "name": "Xpapers",
       "title": "Xpapers",
@@ -137,12 +449,36 @@
       "imageUrl": "https://quakeph-plugin.chatbot.so/assets/Quake PH Logo.png"
     },
     {
+      "id": "plugin-f57754c5-59d9-4291-a982-c613ee663cac",
+      "name": "Paxi AI",
+      "title": "Paxi AI",
+      "remark": "Let AI tools speed up your tasks! Make it easy to find the right tool for the task.",
+      "url": "https://paxi.ai/openapi.yaml",
+      "imageUrl": "https://assets.paxi.ai/sg/assets/logo.png"
+    },
+    {
       "id": "plugin-019fbb62-bb12-488a-8196-2882f8888fb7",
       "name": "RoboAd",
       "title": "RoboAd",
       "remark": "Your AI powered Ad Assistant!",
       "url": "https://roboad.herokuapp.com/openapi.yaml",
       "imageUrl": "https://roboad.herokuapp.com/static/roboad_logo.png"
+    },
+    {
+      "id": "plugin-a40b76f5-2ca9-405a-8e89-f492129b82a8",
+      "name": "Bibliography Crossref",
+      "title": "Bibliography Crossref",
+      "remark": "Search publications and generate bibtex bibliographies using Crossref and Zotero.",
+      "url": "https://bibliography-1-f6795465.deta.app/openapi.yaml",
+      "imageUrl": "https://bibliography-1-f6795465.deta.app/static/logo.jpg"
+    },
+    {
+      "id": "plugin-c5ad0029-6d66-4d0b-8dce-6d59cc5b88af",
+      "name": "Keyword Explorer",
+      "title": "Keyword Explorer",
+      "remark": "Keyword Explorer provides popular related keywords to amplify your content optimization.",
+      "url": "https://keyword-explorer.maila.ai/.well-known/openapi.yaml",
+      "imageUrl": "https://keyword-explorer.maila.ai/.well-known/logo.png"
     },
     {
       "id": "plugin-cbf77967-552b-45ac-a5d3-b80722ac0a73",
@@ -153,12 +489,28 @@
       "imageUrl": "https://buywisely.com.au/assets/logo.png"
     },
     {
+      "id": "plugin-f412a803-a688-486e-8cef-8c0f5f1e36fb",
+      "name": "NextPaper.ai",
+      "title": "NextPaper.ai",
+      "remark": "Fetch the latest research papers on a specific topic from PubMed. More to come.",
+      "url": "https://nextpaperplugin--mengzhao1.repl.co/.well-known/openapi.yaml",
+      "imageUrl": "https://nextpaperplugin--mengzhao1.repl.co/logo.png"
+    },
+    {
       "id": "plugin-659d0b67-ea16-4c9b-86de-7d0652eac6ff",
       "name": "Statis Fund Finance",
       "title": "Statis Fund Finance",
       "remark": "Financial data tool for analyzing equities. You can get price quotes, analyze moving averages, RSI, and more.",
       "url": "https://statisfinapp.herokuapp.com/openapi.yaml",
       "imageUrl": "https://statisfinapp.herokuapp.com/logo.png"
+    },
+    {
+      "id": "plugin-2bbc8741-a823-45d2-8d57-f564d81a79b0",
+      "name": "Bardeen",
+      "title": "Bardeen",
+      "remark": "Create and run automations on the most popular web services.",
+      "url": "https://api.prod.bardeen.ai/bot/static/chatgpt-api.yaml",
+      "imageUrl": "https://assets-global.website-files.com/61f1e1f5e79d214f7f0df5a0/61f6e6d5e613a5a191f81f42_Webclip.png"
     },
     {
       "id": "plugin-37f75e2e-3de8-45c7-9b9d-564e4c193d8b",
@@ -241,12 +593,20 @@
       "imageUrl": "https://creaturegen.vercel.app/logo.png"
     },
     {
-      "id": "plugin-e1d92236-a6f5-4ca0-bd64-3f86e2634dd9",
-      "name": "Career Copilot",
-      "title": "Career Copilot",
-      "remark": "A trusted, always on assistant to help software developers find a better job. Built by Commit.dev.",
-      "url": "https://app.wolfie.ai/openapi.yaml",
-      "imageUrl": "https://app.wolfie.ai/images/chatgpt-logo.png"
+      "id": "plugin-6a1d11d3-8393-465e-a320-e92b529f3137",
+      "name": "Calorie Chat",
+      "title": "Calorie Chat",
+      "remark": "Tracking what you eat doesn't have to be hard. With Calorie Chat, you'll find calorie counting simpler than ever before.",
+      "url": "https://calorie.chat/openapi.yaml",
+      "imageUrl": "https://calorie.chat/calories.png"
+    },
+    {
+      "id": "plugin-4b2e0423-5ecd-45f2-8a5f-125dcdf1d053",
+      "name": "DeployScript",
+      "title": "DeployScript",
+      "remark": "DeployScript effortlessly launches web apps, handling the tech for you. Watch your ideas come to life!",
+      "url": "https://api.deployscript.com/openapi.yaml",
+      "imageUrl": "https://api.deployscript.com/logo.png"
     },
     {
       "id": "plugin-b3b22151-86ec-4654-85f3-c052d8d47e1a",
@@ -263,6 +623,30 @@
       "remark": "Get cryptocurrency information from CoinCap.",
       "url": "https://coincap.gptplug.chat/openapi.yml",
       "imageUrl": "https://seeklogo.com/images/C/coincap-logo-B1854DA521-seeklogo.com.png"
+    },
+    {
+      "id": "plugin-8a9a00f4-17aa-422e-98df-28bfba4cdcb2",
+      "name": "HaffPrice",
+      "title": "HaffPrice",
+      "remark": "Shopping all kinds of products with the lowest price in the market.",
+      "url": "https://chatgpt-plugin.haffprice.com//schema/openai.json",
+      "imageUrl": "https://www.haffprice.com/favicon.png"
+    },
+    {
+      "id": "plugin-cb54e4dc-7242-49d2-bca7-9018695b62f7",
+      "name": "ThemeParkHipster",
+      "title": "ThemeParkHipster",
+      "remark": "Find theme park waiting times around the world.",
+      "url": "https://plugin.themeparkhipster.com/openapi.yaml",
+      "imageUrl": "https://plugin.themeparkhipster.com/logo.png"
+    },
+    {
+      "id": "plugin-dd31900a-68e0-422f-8783-3590b6701460",
+      "name": "WeatherWhiz",
+      "title": "WeatherWhiz",
+      "remark": "WeatherWhiz: Accurate current weather and forecasts for any location.",
+      "url": "https://redantai.pythonanywhere.com/.well-known/openapi.yaml",
+      "imageUrl": "https://redantai.pythonanywhere.com/icon.jpg"
     },
     {
       "id": "plugin-d3ec7db1-89fb-45d6-a8e8-e6b9f2d6ce64",
@@ -441,6 +825,14 @@
       "imageUrl": "https://polygon.io/imgs/favicon.png"
     },
     {
+      "id": "plugin-a8947a00-a92c-4221-a59e-5845d5cb06b4",
+      "name": "ChatWithPDF",
+      "title": "ChatWithPDF",
+      "remark": "Chat with everything from entire PDF books to Google Drive documents just by providing a link.",
+      "url": "https://chatwithpdf.sdan.io/openapi.yaml",
+      "imageUrl": "https://chatwithpdf.sdan.io/logo.png"
+    },
+    {
       "id": "plugin-0efc33e6-78ca-4d8c-a1a4-97d05e2bb4c1",
       "name": "Photorealistic",
       "title": "Photorealistic",
@@ -481,6 +873,14 @@
       "imageUrl": "https://lorelattice.com/.well-known/logo.png"
     },
     {
+      "id": "plugin-6d43ac1c-4f26-40ae-8458-cfec3211a95b",
+      "name": "Crypto Market News",
+      "title": "Crypto Market News",
+      "remark": "It's your go-to solution for real-time cryptocurrency price updates, market insights, and the latest news.",
+      "url": "https://crypto-news.replit.app/openapi.yaml",
+      "imageUrl": "https://crypto-news.replit.app/logo.png"
+    },
+    {
       "id": "plugin-daf2867b-c59d-41a7-8c5d-5be52f68e415",
       "name": "edX",
       "title": "edX",
@@ -511,6 +911,14 @@
       "remark": "Discover and support restaurants, shops & services near you. \ud83c\udf7d\ufe0f \ud83d\udecd\ufe0f \ud83d\udd27",
       "url": "https://local.goodcall.ai/openapi.yaml",
       "imageUrl": "https://local.goodcall.ai/logo.png"
+    },
+    {
+      "id": "plugin-0a16988c-c1e8-42ed-8a53-5cc8763229b7",
+      "name": "Dr. Thoth's Tarot",
+      "title": "Dr. Thoth's Tarot",
+      "remark": "Tarot card novelty entertaiment & analysis, by Mnemosyne Labs.",
+      "url": "https://dr-thoth-tarot.herokuapp.com/openapi.yaml",
+      "imageUrl": "https://dr-thoth-tarot.herokuapp.com/logo.png"
     },
     {
       "id": "plugin-f70bbbbd-e9ec-4fca-b03e-d0e20d337820",
@@ -607,6 +1015,14 @@
       "remark": "Allows you to create AI-Powered Forms, Surveys, Quizzes, or Questionnaires on Yay! Forms.",
       "url": "https://openai-plugin.yayforms.com/openapi.json",
       "imageUrl": "https://app.yayforms.com/logo.svg"
+    },
+    {
+      "id": "plugin-be15078a-b44a-462d-aa31-b05178443124",
+      "name": "AutoInfra1",
+      "title": "AutoInfra1",
+      "remark": "Talk to your Servers. Works with AWS, GCP, Azure, and anywhere you can ssh!",
+      "url": "https://plugin.autoinfra.ai/openapi.yaml",
+      "imageUrl": "https://plugin.autoinfra.ai/logo.png"
     },
     {
       "id": "plugin-d16827bf-4095-49c1-8914-5b0eea9972b1",
@@ -713,6 +1129,14 @@
       "imageUrl": "https://lexi-shopping-assistant-chatgpt-plugin.iamnazzty.repl.co/logo.png"
     },
     {
+      "id": "plugin-b39cbf26-a317-4981-a444-a0f4c555050d",
+      "name": "Acquire.com",
+      "title": "Acquire.com",
+      "remark": "Everything you need to buy and sell startups.",
+      "url": "https://acquire-chatgpt.fly.dev/openapi.yaml",
+      "imageUrl": "https://acquire.com/assets/img/acquiredotcom-logo.b16269.svg"
+    },
+    {
       "id": "plugin-20eb36b7-ca36-44e0-8ec9-fb0c2848d2a6",
       "name": "Keyplays Live Soccer",
       "title": "Keyplays Live Soccer",
@@ -748,9 +1172,9 @@
       "id": "plugin-6d3c12d5-82b9-4f10-87ee-a36018d6fa7b",
       "name": "KeyMate.AI Search",
       "title": "KeyMate.AI Search",
-      "remark": "Search the web by using a Custom Search Engine with KeyMate.AI, your AI-powered web search engine.",
-      "url": "https://searchweb.keymate.ai/.well-known/openapi.yaml",
-      "imageUrl": "https://searchweb.keymate.ai/.well-known/icon.png"
+      "remark": "Search&Browse the web by using Google Search results with KeyMate.AI, your AI-powered web crawler.",
+      "url": "https://searchweb.keymate.ai/.well-known/pluginlab/openapi.json",
+      "imageUrl": "https://server.searchweb.keymate.ai/.well-known/icon.png"
     },
     {
       "id": "plugin-91ed5c8f-5662-4993-817a-da135c7d14a6",
@@ -849,6 +1273,14 @@
       "imageUrl": "https://kalendar.ai/assets/logo-black-50c5284888eeea1d77f877d9a6736f1bf23533f975fae3939824cf429ad95e34.png"
     },
     {
+      "id": "plugin-75cb7e71-c3d0-4ba5-bbe3-896863d8e73b",
+      "name": "Appy Pie App Builder",
+      "title": "Appy Pie App Builder",
+      "remark": "AI-powered Text-to-App Generator turns your app idea into Android and iOS apps- just provide text input.",
+      "url": "https://www.appypie.com/.well-known/openapi.yaml",
+      "imageUrl": "https://www.appypie.com/.well-known/logo.png"
+    },
+    {
       "id": "plugin-99429410-1a9f-4814-a7ed-77f2e420fbea",
       "name": "Algorithma",
       "title": "Algorithma",
@@ -921,12 +1353,28 @@
       "imageUrl": "https://mag-gpt-nextjs.vercel.app/logo.png"
     },
     {
+      "id": "plugin-a773118b-879d-4f55-a221-0b8fc67df6a0",
+      "name": "AI2sql",
+      "title": "AI2sql",
+      "remark": "Converts a natural language text into an SQL query.",
+      "url": "https://chatgpt-plugins-ashy.vercel.app/openapi.yaml",
+      "imageUrl": "https://chatgpt-plugins-ashy.vercel.app/logo.png"
+    },
+    {
       "id": "plugin-3144db30-b419-4558-8d53-309da834dd05",
       "name": "Hauling Buddies",
       "title": "Hauling Buddies",
       "remark": "Locate dependable animal transporters using recommendations, reviews, and regulatory compliance search features.",
       "url": "https://haulingbuddies.com/.well-known/openapi.yaml",
       "imageUrl": "https://haulingbuddies.com/assets/icon_68_68-f5783fef14eb6cefa4084be40395b4e7402c395fd5441c0ceffdfe882c70d7f2.png"
+    },
+    {
+      "id": "plugin-4bf5a072-ab9d-4d39-97ca-0c3054cbd6c6",
+      "name": "SceneXplain",
+      "title": "SceneXplain",
+      "remark": "SceneXplain lets you attach images to your prompt. Explore image storytelling beyond pixels.",
+      "url": "https://scenex.jina.ai/openai.yaml",
+      "imageUrl": "https://scenex.jina.ai/icons/icon-128x128.png"
     },
     {
       "id": "plugin-0f8f251d-5db4-41eb-be03-d1465a8cad90",
@@ -1007,6 +1455,14 @@
       "remark": "What\u2019s cookin'? Ask about recipes, meal plans, & more -- and get ingredients delivered from 40,000+ stores!",
       "url": "https://www.instacart.com/plugin/openapi.yaml",
       "imageUrl": "https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png"
+    },
+    {
+      "id": "plugin-0986fdf9-796d-45ff-9540-318c10c23a30",
+      "name": "Klarna Shopping",
+      "title": "Klarna Shopping",
+      "remark": "Search and compare prices from thousands of online shops. Only available in the US.",
+      "url": "https://www.klarna.com/us/shopping/public/openai/v0/api-docs/",
+      "imageUrl": "https://www.klarna.com/assets/sites/5/2020/04/27143923/klarna-K-150x150.jpg"
     },
     {
       "id": "plugin-43fe9e1c-665a-4c22-a0f4-2a2ec195da51",
